@@ -1,0 +1,126 @@
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\bin\Debug\FMM-Application.exe.config
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\bin\Debug\FMM-Application.exe
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\bin\Debug\FMM-Application.pdb
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\obj\Debug\FMM-Application.csprojAssemblyReference.cache
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\obj\Debug\FMM_Application.Properties.Resources.resources
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\obj\Debug\FMM-Application.csproj.GenerateResource.cache
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\obj\Debug\FMM-Application.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\obj\Debug\FMM-Application.csproj.CopyComplete
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\obj\Debug\FMM-Application.exe
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\obj\Debug\FMM-Application.pdb
+C:\Users\Ma7mood_99\Desktop\Github\FMM-App\FMM-Application\obj\Debug\FMM_Application.App.Forms.HomeForm.resources
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\FMM-Application.exe.config
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\FMM-Application.exe
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\FMM-Application.pdb
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.Properties.Resources.resources
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.csproj.GenerateResource.cache
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.exe.licenses
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.csproj.CopyComplete
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.exe
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.pdb
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.Forms.H_Form.HomeForm.resources
+C:\Users\Ma7mood_99\Desktop\Github\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.csprojAssemblyReference.cache
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\FMM-Application.exe.config
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\FMM-Application.exe
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\FMM-Application.pdb
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.Properties.Resources.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.csproj.GenerateResource.cache
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.exe.licenses
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.csproj.CoreCompileInputs.cache
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.csproj.CopyComplete
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.exe
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.pdb
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.UIs.Home.HomeForm.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.UIs.Permissions.EmployeesData.EmployeesDataForm.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.UIs.Permissions.EmployeesData.EmpItem.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.UIs.Permissions.EmployeesData.EmployeeDataForm.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.Resources.Views.Spinner_M7N.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.Resources.Views.SearchBox_M7N.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM-Application.csprojAssemblyReference.cache
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.UIs.Permissions.Emps.EmpItem.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.UIs.Permissions.Emps.EmpsForm.resources
+C:\Users\Ma7mood_99\Desktop\Github\مجلد جديد\FMM_App1\FMM\FMM-Application\obj\Debug\FMM_Application.App.UIs.Permissions.Emps.EmpssForm.resources
