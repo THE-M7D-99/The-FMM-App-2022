@@ -1,5 +1,5 @@
 ﻿using FMM_Application.App.Resources.Values.Fonts;
-
+//
 namespace FMM_Application.App.UIs.Permissions.EmployeesData
 {
     partial class EmployeesDataForm
