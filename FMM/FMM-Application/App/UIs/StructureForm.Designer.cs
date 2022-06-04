@@ -38,34 +38,13 @@
             this.panel10 = new System.Windows.Forms.Panel();
             this.panel15 = new System.Windows.Forms.Panel();
             this.panel31 = new System.Windows.Forms.Panel();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.button3 = new System.Windows.Forms.Button();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.panel16 = new System.Windows.Forms.Panel();
-            this.panel17 = new System.Windows.Forms.Panel();
-            this.data_view = new System.Windows.Forms.DataGridView();
-            this.panel18 = new System.Windows.Forms.Panel();
-            this.panel19 = new System.Windows.Forms.Panel();
-            this.panel20 = new System.Windows.Forms.Panel();
-            this.panel21 = new System.Windows.Forms.Panel();
-            this.panel23 = new System.Windows.Forms.Panel();
-            this.panel24 = new System.Windows.Forms.Panel();
-            this.panel25 = new System.Windows.Forms.Panel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.panel26 = new System.Windows.Forms.Panel();
-            this.srch_btn = new FontAwesome.Sharp.IconButton();
-            this.panel224 = new System.Windows.Forms.Panel();
-            this.panel225 = new System.Windows.Forms.Panel();
-            this.label54 = new System.Windows.Forms.Label();
-            this.panel228 = new System.Windows.Forms.Panel();
-            this.panel38 = new System.Windows.Forms.Panel();
-            this.panel39 = new System.Windows.Forms.Panel();
             this.grbx_bill = new System.Windows.Forms.GroupBox();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.panel30 = new System.Windows.Forms.Panel();
+            this.panel32 = new System.Windows.Forms.Panel();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.panel33 = new System.Windows.Forms.Panel();
+            this.label5 = new System.Windows.Forms.Label();
             this.panel46 = new System.Windows.Forms.Panel();
             this.panel50 = new System.Windows.Forms.Panel();
             this.panel51 = new System.Windows.Forms.Panel();
@@ -89,41 +68,50 @@
             this.txtbx_bill_number = new System.Windows.Forms.TextBox();
             this.panel29 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.panel30 = new System.Windows.Forms.Panel();
-            this.panel32 = new System.Windows.Forms.Panel();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.panel33 = new System.Windows.Forms.Panel();
-            this.label5 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.button3 = new System.Windows.Forms.Button();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.data_view = new System.Windows.Forms.DataGridView();
+            this.panel18 = new System.Windows.Forms.Panel();
+            this.panel19 = new System.Windows.Forms.Panel();
+            this.panel20 = new System.Windows.Forms.Panel();
+            this.panel21 = new System.Windows.Forms.Panel();
+            this.panel22 = new System.Windows.Forms.Panel();
             this.panel27 = new System.Windows.Forms.Panel();
             this.panel61 = new System.Windows.Forms.Panel();
             this.comboBox5 = new System.Windows.Forms.ComboBox();
             this.panel62 = new System.Windows.Forms.Panel();
             this.label6 = new System.Windows.Forms.Label();
-            this.panel22 = new System.Windows.Forms.Panel();
+            this.panel23 = new System.Windows.Forms.Panel();
+            this.panel24 = new System.Windows.Forms.Panel();
+            this.panel25 = new System.Windows.Forms.Panel();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.panel26 = new System.Windows.Forms.Panel();
+            this.srch_btn = new FontAwesome.Sharp.IconButton();
+            this.panel224 = new System.Windows.Forms.Panel();
+            this.panel225 = new System.Windows.Forms.Panel();
+            this.label54 = new System.Windows.Forms.Label();
+            this.panel228 = new System.Windows.Forms.Panel();
+            this.panel38 = new System.Windows.Forms.Panel();
+            this.panel39 = new System.Windows.Forms.Panel();
             this.panel116.SuspendLayout();
             this.panel117.SuspendLayout();
             this.panel8.SuspendLayout();
             this.panel10.SuspendLayout();
             this.panel15.SuspendLayout();
             this.panel31.SuspendLayout();
-            this.panel1.SuspendLayout();
-            this.panel6.SuspendLayout();
-            this.panel7.SuspendLayout();
-            this.panel9.SuspendLayout();
-            this.panel11.SuspendLayout();
-            this.panel16.SuspendLayout();
-            this.panel17.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.data_view)).BeginInit();
-            this.panel18.SuspendLayout();
-            this.panel21.SuspendLayout();
-            this.panel23.SuspendLayout();
-            this.panel24.SuspendLayout();
-            this.panel25.SuspendLayout();
-            this.panel26.SuspendLayout();
-            this.panel224.SuspendLayout();
-            this.panel225.SuspendLayout();
             this.grbx_bill.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panel30.SuspendLayout();
+            this.panel32.SuspendLayout();
+            this.panel33.SuspendLayout();
             this.panel46.SuspendLayout();
             this.panel50.SuspendLayout();
             this.panel51.SuspendLayout();
@@ -138,13 +126,25 @@
             this.panel14.SuspendLayout();
             this.panel28.SuspendLayout();
             this.panel29.SuspendLayout();
-            this.panel3.SuspendLayout();
-            this.panel30.SuspendLayout();
-            this.panel32.SuspendLayout();
-            this.panel33.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.panel6.SuspendLayout();
+            this.panel7.SuspendLayout();
+            this.panel9.SuspendLayout();
+            this.panel11.SuspendLayout();
+            this.panel16.SuspendLayout();
+            this.panel17.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.data_view)).BeginInit();
+            this.panel18.SuspendLayout();
+            this.panel21.SuspendLayout();
             this.panel27.SuspendLayout();
             this.panel61.SuspendLayout();
             this.panel62.SuspendLayout();
+            this.panel23.SuspendLayout();
+            this.panel24.SuspendLayout();
+            this.panel25.SuspendLayout();
+            this.panel26.SuspendLayout();
+            this.panel224.SuspendLayout();
+            this.panel225.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel116
@@ -257,6 +257,329 @@
             this.panel31.Padding = new System.Windows.Forms.Padding(4);
             this.panel31.Size = new System.Drawing.Size(510, 171);
             this.panel31.TabIndex = 82;
+            // 
+            // grbx_bill
+            // 
+            this.grbx_bill.AutoSize = true;
+            this.grbx_bill.Controls.Add(this.panel3);
+            this.grbx_bill.Controls.Add(this.panel46);
+            this.grbx_bill.Controls.Add(this.panel4);
+            this.grbx_bill.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.grbx_bill.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.grbx_bill.Location = new System.Drawing.Point(4, 4);
+            this.grbx_bill.Name = "grbx_bill";
+            this.grbx_bill.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.grbx_bill.Size = new System.Drawing.Size(502, 163);
+            this.grbx_bill.TabIndex = 27;
+            this.grbx_bill.TabStop = false;
+            this.grbx_bill.Text = "الفاتورة";
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.panel30);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel3.Location = new System.Drawing.Point(3, 112);
+            this.panel3.Name = "panel3";
+            this.panel3.Padding = new System.Windows.Forms.Padding(4);
+            this.panel3.Size = new System.Drawing.Size(496, 48);
+            this.panel3.TabIndex = 77;
+            // 
+            // panel30
+            // 
+            this.panel30.Controls.Add(this.panel32);
+            this.panel30.Controls.Add(this.panel33);
+            this.panel30.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel30.Location = new System.Drawing.Point(4, 4);
+            this.panel30.Name = "panel30";
+            this.panel30.Padding = new System.Windows.Forms.Padding(4);
+            this.panel30.Size = new System.Drawing.Size(488, 40);
+            this.panel30.TabIndex = 5;
+            // 
+            // panel32
+            // 
+            this.panel32.Controls.Add(this.textBox2);
+            this.panel32.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel32.Location = new System.Drawing.Point(4, 4);
+            this.panel32.Name = "panel32";
+            this.panel32.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel32.Size = new System.Drawing.Size(399, 32);
+            this.panel32.TabIndex = 24;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBox2.Location = new System.Drawing.Point(0, 6);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(399, 20);
+            this.textBox2.TabIndex = 2;
+            // 
+            // panel33
+            // 
+            this.panel33.AutoSize = true;
+            this.panel33.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.panel33.Controls.Add(this.label5);
+            this.panel33.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel33.Location = new System.Drawing.Point(403, 4);
+            this.panel33.Name = "panel33";
+            this.panel33.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel33.Size = new System.Drawing.Size(81, 32);
+            this.panel33.TabIndex = 23;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.label5.Location = new System.Drawing.Point(0, 6);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(81, 20);
+            this.label5.TabIndex = 16;
+            this.label5.Text = "اسم المنتج:-";
+            // 
+            // panel46
+            // 
+            this.panel46.Controls.Add(this.panel50);
+            this.panel46.Controls.Add(this.panel53);
+            this.panel46.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel46.Location = new System.Drawing.Point(3, 64);
+            this.panel46.Name = "panel46";
+            this.panel46.Padding = new System.Windows.Forms.Padding(4);
+            this.panel46.Size = new System.Drawing.Size(496, 48);
+            this.panel46.TabIndex = 71;
+            // 
+            // panel50
+            // 
+            this.panel50.Controls.Add(this.panel51);
+            this.panel50.Controls.Add(this.panel52);
+            this.panel50.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel50.Location = new System.Drawing.Point(4, 4);
+            this.panel50.Name = "panel50";
+            this.panel50.Padding = new System.Windows.Forms.Padding(4);
+            this.panel50.Size = new System.Drawing.Size(268, 40);
+            this.panel50.TabIndex = 6;
+            // 
+            // panel51
+            // 
+            this.panel51.Controls.Add(this.radbtn_type_after);
+            this.panel51.Controls.Add(this.radbtn_type_money);
+            this.panel51.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel51.Location = new System.Drawing.Point(4, 4);
+            this.panel51.Name = "panel51";
+            this.panel51.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel51.Size = new System.Drawing.Size(164, 32);
+            this.panel51.TabIndex = 28;
+            // 
+            // radbtn_type_after
+            // 
+            this.radbtn_type_after.AutoSize = true;
+            this.radbtn_type_after.Dock = System.Windows.Forms.DockStyle.Right;
+            this.radbtn_type_after.Location = new System.Drawing.Point(40, 6);
+            this.radbtn_type_after.Name = "radbtn_type_after";
+            this.radbtn_type_after.Padding = new System.Windows.Forms.Padding(0, 0, 16, 0);
+            this.radbtn_type_after.Size = new System.Drawing.Size(59, 20);
+            this.radbtn_type_after.TabIndex = 1;
+            this.radbtn_type_after.TabStop = true;
+            this.radbtn_type_after.Text = "آجل";
+            this.radbtn_type_after.UseVisualStyleBackColor = true;
+            // 
+            // radbtn_type_money
+            // 
+            this.radbtn_type_money.AutoSize = true;
+            this.radbtn_type_money.Dock = System.Windows.Forms.DockStyle.Right;
+            this.radbtn_type_money.Location = new System.Drawing.Point(99, 6);
+            this.radbtn_type_money.Name = "radbtn_type_money";
+            this.radbtn_type_money.Padding = new System.Windows.Forms.Padding(0, 0, 16, 0);
+            this.radbtn_type_money.Size = new System.Drawing.Size(65, 20);
+            this.radbtn_type_money.TabIndex = 0;
+            this.radbtn_type_money.TabStop = true;
+            this.radbtn_type_money.Text = "نقدي";
+            this.radbtn_type_money.UseVisualStyleBackColor = true;
+            // 
+            // panel52
+            // 
+            this.panel52.AutoSize = true;
+            this.panel52.Controls.Add(this.label3);
+            this.panel52.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel52.Location = new System.Drawing.Point(168, 4);
+            this.panel52.Name = "panel52";
+            this.panel52.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel52.Size = new System.Drawing.Size(96, 32);
+            this.panel52.TabIndex = 27;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.label3.Location = new System.Drawing.Point(0, 6);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(96, 20);
+            this.label3.TabIndex = 16;
+            this.label3.Text = "نوع الفاتورة:-";
+            // 
+            // panel53
+            // 
+            this.panel53.Controls.Add(this.panel59);
+            this.panel53.Controls.Add(this.panel67);
+            this.panel53.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel53.Location = new System.Drawing.Point(272, 4);
+            this.panel53.Name = "panel53";
+            this.panel53.Padding = new System.Windows.Forms.Padding(4);
+            this.panel53.Size = new System.Drawing.Size(220, 40);
+            this.panel53.TabIndex = 5;
+            // 
+            // panel59
+            // 
+            this.panel59.Controls.Add(this.dtTm_buying);
+            this.panel59.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel59.Location = new System.Drawing.Point(4, 4);
+            this.panel59.Name = "panel59";
+            this.panel59.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel59.Size = new System.Drawing.Size(112, 32);
+            this.panel59.TabIndex = 27;
+            // 
+            // dtTm_buying
+            // 
+            this.dtTm_buying.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dtTm_buying.Location = new System.Drawing.Point(0, 6);
+            this.dtTm_buying.Name = "dtTm_buying";
+            this.dtTm_buying.Size = new System.Drawing.Size(112, 20);
+            this.dtTm_buying.TabIndex = 0;
+            // 
+            // panel67
+            // 
+            this.panel67.AutoSize = true;
+            this.panel67.Controls.Add(this.label4);
+            this.panel67.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel67.Location = new System.Drawing.Point(116, 4);
+            this.panel67.Name = "panel67";
+            this.panel67.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel67.Size = new System.Drawing.Size(100, 32);
+            this.panel67.TabIndex = 26;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.label4.Location = new System.Drawing.Point(0, 6);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(100, 20);
+            this.label4.TabIndex = 16;
+            this.label4.Text = "تاريخ الشراء:-";
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.panel5);
+            this.panel4.Controls.Add(this.panel14);
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panel4.Location = new System.Drawing.Point(3, 16);
+            this.panel4.Name = "panel4";
+            this.panel4.Padding = new System.Windows.Forms.Padding(4);
+            this.panel4.Size = new System.Drawing.Size(496, 48);
+            this.panel4.TabIndex = 70;
+            // 
+            // panel5
+            // 
+            this.panel5.Controls.Add(this.panel12);
+            this.panel5.Controls.Add(this.panel13);
+            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel5.Location = new System.Drawing.Point(4, 4);
+            this.panel5.Name = "panel5";
+            this.panel5.Padding = new System.Windows.Forms.Padding(4);
+            this.panel5.Size = new System.Drawing.Size(268, 40);
+            this.panel5.TabIndex = 6;
+            // 
+            // panel12
+            // 
+            this.panel12.Controls.Add(this.txtbx_acuracy);
+            this.panel12.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel12.Location = new System.Drawing.Point(4, 4);
+            this.panel12.Name = "panel12";
+            this.panel12.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel12.Size = new System.Drawing.Size(206, 32);
+            this.panel12.TabIndex = 28;
+            // 
+            // txtbx_acuracy
+            // 
+            this.txtbx_acuracy.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtbx_acuracy.Location = new System.Drawing.Point(0, 6);
+            this.txtbx_acuracy.Name = "txtbx_acuracy";
+            this.txtbx_acuracy.Size = new System.Drawing.Size(206, 20);
+            this.txtbx_acuracy.TabIndex = 2;
+            // 
+            // panel13
+            // 
+            this.panel13.AutoSize = true;
+            this.panel13.Controls.Add(this.label1);
+            this.panel13.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel13.Location = new System.Drawing.Point(210, 4);
+            this.panel13.Name = "panel13";
+            this.panel13.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel13.Size = new System.Drawing.Size(54, 32);
+            this.panel13.TabIndex = 27;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.label1.Location = new System.Drawing.Point(0, 6);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(54, 20);
+            this.label1.TabIndex = 16;
+            this.label1.Text = "العملة:-";
+            // 
+            // panel14
+            // 
+            this.panel14.Controls.Add(this.panel28);
+            this.panel14.Controls.Add(this.panel29);
+            this.panel14.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel14.Location = new System.Drawing.Point(272, 4);
+            this.panel14.Name = "panel14";
+            this.panel14.Padding = new System.Windows.Forms.Padding(4);
+            this.panel14.Size = new System.Drawing.Size(220, 40);
+            this.panel14.TabIndex = 5;
+            // 
+            // panel28
+            // 
+            this.panel28.Controls.Add(this.txtbx_bill_number);
+            this.panel28.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel28.Location = new System.Drawing.Point(4, 4);
+            this.panel28.Name = "panel28";
+            this.panel28.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel28.Size = new System.Drawing.Size(119, 32);
+            this.panel28.TabIndex = 27;
+            // 
+            // txtbx_bill_number
+            // 
+            this.txtbx_bill_number.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtbx_bill_number.Location = new System.Drawing.Point(0, 6);
+            this.txtbx_bill_number.Name = "txtbx_bill_number";
+            this.txtbx_bill_number.Size = new System.Drawing.Size(119, 20);
+            this.txtbx_bill_number.TabIndex = 2;
+            // 
+            // panel29
+            // 
+            this.panel29.AutoSize = true;
+            this.panel29.Controls.Add(this.label2);
+            this.panel29.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel29.Location = new System.Drawing.Point(123, 4);
+            this.panel29.Name = "panel29";
+            this.panel29.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
+            this.panel29.Size = new System.Drawing.Size(93, 32);
+            this.panel29.TabIndex = 26;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.label2.Location = new System.Drawing.Point(0, 6);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(93, 20);
+            this.label2.TabIndex = 16;
+            this.label2.Text = "رقم الفاتورة:-";
             // 
             // panel1
             // 
@@ -421,6 +744,69 @@
             this.panel21.Size = new System.Drawing.Size(744, 60);
             this.panel21.TabIndex = 4;
             // 
+            // panel22
+            // 
+            this.panel22.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel22.Location = new System.Drawing.Point(204, 4);
+            this.panel22.Name = "panel22";
+            this.panel22.Padding = new System.Windows.Forms.Padding(8);
+            this.panel22.Size = new System.Drawing.Size(367, 52);
+            this.panel22.TabIndex = 24;
+            // 
+            // panel27
+            // 
+            this.panel27.AutoSize = true;
+            this.panel27.Controls.Add(this.panel61);
+            this.panel27.Controls.Add(this.panel62);
+            this.panel27.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel27.Location = new System.Drawing.Point(571, 4);
+            this.panel27.Name = "panel27";
+            this.panel27.Padding = new System.Windows.Forms.Padding(4, 8, 4, 8);
+            this.panel27.Size = new System.Drawing.Size(169, 52);
+            this.panel27.TabIndex = 23;
+            // 
+            // panel61
+            // 
+            this.panel61.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.panel61.Controls.Add(this.comboBox5);
+            this.panel61.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel61.Location = new System.Drawing.Point(4, 8);
+            this.panel61.Name = "panel61";
+            this.panel61.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
+            this.panel61.Size = new System.Drawing.Size(120, 36);
+            this.panel61.TabIndex = 17;
+            // 
+            // comboBox5
+            // 
+            this.comboBox5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.comboBox5.FormattingEnabled = true;
+            this.comboBox5.Location = new System.Drawing.Point(0, 8);
+            this.comboBox5.Name = "comboBox5";
+            this.comboBox5.Size = new System.Drawing.Size(120, 21);
+            this.comboBox5.TabIndex = 0;
+            // 
+            // panel62
+            // 
+            this.panel62.AutoSize = true;
+            this.panel62.Controls.Add(this.label6);
+            this.panel62.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel62.Location = new System.Drawing.Point(124, 8);
+            this.panel62.Name = "panel62";
+            this.panel62.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
+            this.panel62.Size = new System.Drawing.Size(41, 36);
+            this.panel62.TabIndex = 16;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.label6.Location = new System.Drawing.Point(0, 8);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(41, 20);
+            this.label6.TabIndex = 16;
+            this.label6.Text = "السنة";
+            // 
             // panel23
             // 
             this.panel23.Controls.Add(this.panel24);
@@ -550,391 +936,6 @@
             this.panel39.Size = new System.Drawing.Size(2, 704);
             this.panel39.TabIndex = 32;
             // 
-            // grbx_bill
-            // 
-            this.grbx_bill.AutoSize = true;
-            this.grbx_bill.Controls.Add(this.panel3);
-            this.grbx_bill.Controls.Add(this.panel46);
-            this.grbx_bill.Controls.Add(this.panel4);
-            this.grbx_bill.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.grbx_bill.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.grbx_bill.Location = new System.Drawing.Point(4, 4);
-            this.grbx_bill.Name = "grbx_bill";
-            this.grbx_bill.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.grbx_bill.Size = new System.Drawing.Size(502, 163);
-            this.grbx_bill.TabIndex = 27;
-            this.grbx_bill.TabStop = false;
-            this.grbx_bill.Text = "الفاتورة";
-            // 
-            // panel46
-            // 
-            this.panel46.Controls.Add(this.panel50);
-            this.panel46.Controls.Add(this.panel53);
-            this.panel46.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel46.Location = new System.Drawing.Point(3, 64);
-            this.panel46.Name = "panel46";
-            this.panel46.Padding = new System.Windows.Forms.Padding(4);
-            this.panel46.Size = new System.Drawing.Size(496, 48);
-            this.panel46.TabIndex = 71;
-            // 
-            // panel50
-            // 
-            this.panel50.Controls.Add(this.panel51);
-            this.panel50.Controls.Add(this.panel52);
-            this.panel50.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel50.Location = new System.Drawing.Point(4, 4);
-            this.panel50.Name = "panel50";
-            this.panel50.Padding = new System.Windows.Forms.Padding(4);
-            this.panel50.Size = new System.Drawing.Size(268, 40);
-            this.panel50.TabIndex = 6;
-            // 
-            // panel51
-            // 
-            this.panel51.Controls.Add(this.radbtn_type_after);
-            this.panel51.Controls.Add(this.radbtn_type_money);
-            this.panel51.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel51.Location = new System.Drawing.Point(4, 4);
-            this.panel51.Name = "panel51";
-            this.panel51.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel51.Size = new System.Drawing.Size(164, 32);
-            this.panel51.TabIndex = 28;
-            // 
-            // radbtn_type_after
-            // 
-            this.radbtn_type_after.AutoSize = true;
-            this.radbtn_type_after.Dock = System.Windows.Forms.DockStyle.Right;
-            this.radbtn_type_after.Location = new System.Drawing.Point(40, 6);
-            this.radbtn_type_after.Name = "radbtn_type_after";
-            this.radbtn_type_after.Padding = new System.Windows.Forms.Padding(0, 0, 16, 0);
-            this.radbtn_type_after.Size = new System.Drawing.Size(59, 20);
-            this.radbtn_type_after.TabIndex = 1;
-            this.radbtn_type_after.TabStop = true;
-            this.radbtn_type_after.Text = "آجل";
-            this.radbtn_type_after.UseVisualStyleBackColor = true;
-            // 
-            // radbtn_type_money
-            // 
-            this.radbtn_type_money.AutoSize = true;
-            this.radbtn_type_money.Dock = System.Windows.Forms.DockStyle.Right;
-            this.radbtn_type_money.Location = new System.Drawing.Point(99, 6);
-            this.radbtn_type_money.Name = "radbtn_type_money";
-            this.radbtn_type_money.Padding = new System.Windows.Forms.Padding(0, 0, 16, 0);
-            this.radbtn_type_money.Size = new System.Drawing.Size(65, 20);
-            this.radbtn_type_money.TabIndex = 0;
-            this.radbtn_type_money.TabStop = true;
-            this.radbtn_type_money.Text = "نقدي";
-            this.radbtn_type_money.UseVisualStyleBackColor = true;
-            // 
-            // panel52
-            // 
-            this.panel52.AutoSize = true;
-            this.panel52.Controls.Add(this.label3);
-            this.panel52.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel52.Location = new System.Drawing.Point(168, 4);
-            this.panel52.Name = "panel52";
-            this.panel52.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel52.Size = new System.Drawing.Size(96, 32);
-            this.panel52.TabIndex = 27;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Dock = System.Windows.Forms.DockStyle.Left;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(0, 6);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(96, 20);
-            this.label3.TabIndex = 16;
-            this.label3.Text = "نوع الفاتورة:-";
-            // 
-            // panel53
-            // 
-            this.panel53.Controls.Add(this.panel59);
-            this.panel53.Controls.Add(this.panel67);
-            this.panel53.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel53.Location = new System.Drawing.Point(272, 4);
-            this.panel53.Name = "panel53";
-            this.panel53.Padding = new System.Windows.Forms.Padding(4);
-            this.panel53.Size = new System.Drawing.Size(220, 40);
-            this.panel53.TabIndex = 5;
-            // 
-            // panel59
-            // 
-            this.panel59.Controls.Add(this.dtTm_buying);
-            this.panel59.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel59.Location = new System.Drawing.Point(4, 4);
-            this.panel59.Name = "panel59";
-            this.panel59.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel59.Size = new System.Drawing.Size(112, 32);
-            this.panel59.TabIndex = 27;
-            // 
-            // dtTm_buying
-            // 
-            this.dtTm_buying.Location = new System.Drawing.Point(3, 6);
-            this.dtTm_buying.Name = "dtTm_buying";
-            this.dtTm_buying.Size = new System.Drawing.Size(108, 20);
-            this.dtTm_buying.TabIndex = 0;
-            // 
-            // panel67
-            // 
-            this.panel67.AutoSize = true;
-            this.panel67.Controls.Add(this.label4);
-            this.panel67.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel67.Location = new System.Drawing.Point(116, 4);
-            this.panel67.Name = "panel67";
-            this.panel67.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel67.Size = new System.Drawing.Size(100, 32);
-            this.panel67.TabIndex = 26;
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Dock = System.Windows.Forms.DockStyle.Left;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(0, 6);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(100, 20);
-            this.label4.TabIndex = 16;
-            this.label4.Text = "تاريخ الشراء:-";
-            // 
-            // panel4
-            // 
-            this.panel4.Controls.Add(this.panel5);
-            this.panel4.Controls.Add(this.panel14);
-            this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel4.Location = new System.Drawing.Point(3, 16);
-            this.panel4.Name = "panel4";
-            this.panel4.Padding = new System.Windows.Forms.Padding(4);
-            this.panel4.Size = new System.Drawing.Size(496, 48);
-            this.panel4.TabIndex = 70;
-            // 
-            // panel5
-            // 
-            this.panel5.Controls.Add(this.panel12);
-            this.panel5.Controls.Add(this.panel13);
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel5.Location = new System.Drawing.Point(4, 4);
-            this.panel5.Name = "panel5";
-            this.panel5.Padding = new System.Windows.Forms.Padding(4);
-            this.panel5.Size = new System.Drawing.Size(268, 40);
-            this.panel5.TabIndex = 6;
-            // 
-            // panel12
-            // 
-            this.panel12.Controls.Add(this.txtbx_acuracy);
-            this.panel12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel12.Location = new System.Drawing.Point(4, 4);
-            this.panel12.Name = "panel12";
-            this.panel12.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel12.Size = new System.Drawing.Size(206, 32);
-            this.panel12.TabIndex = 28;
-            // 
-            // txtbx_acuracy
-            // 
-            this.txtbx_acuracy.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtbx_acuracy.Location = new System.Drawing.Point(0, 6);
-            this.txtbx_acuracy.Name = "txtbx_acuracy";
-            this.txtbx_acuracy.Size = new System.Drawing.Size(206, 20);
-            this.txtbx_acuracy.TabIndex = 2;
-            // 
-            // panel13
-            // 
-            this.panel13.AutoSize = true;
-            this.panel13.Controls.Add(this.label1);
-            this.panel13.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel13.Location = new System.Drawing.Point(210, 4);
-            this.panel13.Name = "panel13";
-            this.panel13.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel13.Size = new System.Drawing.Size(54, 32);
-            this.panel13.TabIndex = 27;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(0, 6);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(54, 20);
-            this.label1.TabIndex = 16;
-            this.label1.Text = "العملة:-";
-            // 
-            // panel14
-            // 
-            this.panel14.Controls.Add(this.panel28);
-            this.panel14.Controls.Add(this.panel29);
-            this.panel14.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel14.Location = new System.Drawing.Point(272, 4);
-            this.panel14.Name = "panel14";
-            this.panel14.Padding = new System.Windows.Forms.Padding(4);
-            this.panel14.Size = new System.Drawing.Size(220, 40);
-            this.panel14.TabIndex = 5;
-            // 
-            // panel28
-            // 
-            this.panel28.Controls.Add(this.txtbx_bill_number);
-            this.panel28.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel28.Location = new System.Drawing.Point(4, 4);
-            this.panel28.Name = "panel28";
-            this.panel28.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel28.Size = new System.Drawing.Size(119, 32);
-            this.panel28.TabIndex = 27;
-            // 
-            // txtbx_bill_number
-            // 
-            this.txtbx_bill_number.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtbx_bill_number.Location = new System.Drawing.Point(0, 6);
-            this.txtbx_bill_number.Name = "txtbx_bill_number";
-            this.txtbx_bill_number.Size = new System.Drawing.Size(119, 20);
-            this.txtbx_bill_number.TabIndex = 2;
-            // 
-            // panel29
-            // 
-            this.panel29.AutoSize = true;
-            this.panel29.Controls.Add(this.label2);
-            this.panel29.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel29.Location = new System.Drawing.Point(123, 4);
-            this.panel29.Name = "panel29";
-            this.panel29.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel29.Size = new System.Drawing.Size(93, 32);
-            this.panel29.TabIndex = 26;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Dock = System.Windows.Forms.DockStyle.Left;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.label2.Location = new System.Drawing.Point(0, 6);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(93, 20);
-            this.label2.TabIndex = 16;
-            this.label2.Text = "رقم الفاتورة:-";
-            // 
-            // panel3
-            // 
-            this.panel3.Controls.Add(this.panel30);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel3.Location = new System.Drawing.Point(3, 112);
-            this.panel3.Name = "panel3";
-            this.panel3.Padding = new System.Windows.Forms.Padding(4);
-            this.panel3.Size = new System.Drawing.Size(496, 48);
-            this.panel3.TabIndex = 77;
-            // 
-            // panel30
-            // 
-            this.panel30.Controls.Add(this.panel32);
-            this.panel30.Controls.Add(this.panel33);
-            this.panel30.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel30.Location = new System.Drawing.Point(4, 4);
-            this.panel30.Name = "panel30";
-            this.panel30.Padding = new System.Windows.Forms.Padding(4);
-            this.panel30.Size = new System.Drawing.Size(488, 40);
-            this.panel30.TabIndex = 5;
-            // 
-            // panel32
-            // 
-            this.panel32.Controls.Add(this.textBox2);
-            this.panel32.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel32.Location = new System.Drawing.Point(4, 4);
-            this.panel32.Name = "panel32";
-            this.panel32.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel32.Size = new System.Drawing.Size(399, 32);
-            this.panel32.TabIndex = 24;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox2.Location = new System.Drawing.Point(0, 6);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(399, 20);
-            this.textBox2.TabIndex = 2;
-            // 
-            // panel33
-            // 
-            this.panel33.AutoSize = true;
-            this.panel33.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.panel33.Controls.Add(this.label5);
-            this.panel33.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel33.Location = new System.Drawing.Point(403, 4);
-            this.panel33.Name = "panel33";
-            this.panel33.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
-            this.panel33.Size = new System.Drawing.Size(81, 32);
-            this.panel33.TabIndex = 23;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(0, 6);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(81, 20);
-            this.label5.TabIndex = 16;
-            this.label5.Text = "اسم المنتج:-";
-            // 
-            // panel27
-            // 
-            this.panel27.AutoSize = true;
-            this.panel27.Controls.Add(this.panel61);
-            this.panel27.Controls.Add(this.panel62);
-            this.panel27.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel27.Location = new System.Drawing.Point(571, 4);
-            this.panel27.Name = "panel27";
-            this.panel27.Padding = new System.Windows.Forms.Padding(4, 8, 4, 8);
-            this.panel27.Size = new System.Drawing.Size(169, 52);
-            this.panel27.TabIndex = 23;
-            // 
-            // panel61
-            // 
-            this.panel61.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.panel61.Controls.Add(this.comboBox5);
-            this.panel61.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel61.Location = new System.Drawing.Point(4, 8);
-            this.panel61.Name = "panel61";
-            this.panel61.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
-            this.panel61.Size = new System.Drawing.Size(120, 36);
-            this.panel61.TabIndex = 17;
-            // 
-            // comboBox5
-            // 
-            this.comboBox5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.comboBox5.FormattingEnabled = true;
-            this.comboBox5.Location = new System.Drawing.Point(0, 8);
-            this.comboBox5.Name = "comboBox5";
-            this.comboBox5.Size = new System.Drawing.Size(120, 21);
-            this.comboBox5.TabIndex = 0;
-            // 
-            // panel62
-            // 
-            this.panel62.AutoSize = true;
-            this.panel62.Controls.Add(this.label6);
-            this.panel62.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel62.Location = new System.Drawing.Point(124, 8);
-            this.panel62.Name = "panel62";
-            this.panel62.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
-            this.panel62.Size = new System.Drawing.Size(41, 36);
-            this.panel62.TabIndex = 16;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Dock = System.Windows.Forms.DockStyle.Left;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.label6.Location = new System.Drawing.Point(0, 8);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(41, 20);
-            this.label6.TabIndex = 16;
-            this.label6.Text = "السنة";
-            // 
-            // panel22
-            // 
-            this.panel22.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel22.Location = new System.Drawing.Point(204, 4);
-            this.panel22.Name = "panel22";
-            this.panel22.Padding = new System.Windows.Forms.Padding(8);
-            this.panel22.Size = new System.Drawing.Size(367, 52);
-            this.panel22.TabIndex = 24;
-            // 
             // StructureForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -958,31 +959,14 @@
             this.panel15.PerformLayout();
             this.panel31.ResumeLayout(false);
             this.panel31.PerformLayout();
-            this.panel1.ResumeLayout(false);
-            this.panel6.ResumeLayout(false);
-            this.panel6.PerformLayout();
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
-            this.panel9.ResumeLayout(false);
-            this.panel9.PerformLayout();
-            this.panel11.ResumeLayout(false);
-            this.panel16.ResumeLayout(false);
-            this.panel17.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.data_view)).EndInit();
-            this.panel18.ResumeLayout(false);
-            this.panel21.ResumeLayout(false);
-            this.panel21.PerformLayout();
-            this.panel23.ResumeLayout(false);
-            this.panel24.ResumeLayout(false);
-            this.panel24.PerformLayout();
-            this.panel25.ResumeLayout(false);
-            this.panel25.PerformLayout();
-            this.panel26.ResumeLayout(false);
-            this.panel224.ResumeLayout(false);
-            this.panel224.PerformLayout();
-            this.panel225.ResumeLayout(false);
-            this.panel225.PerformLayout();
             this.grbx_bill.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panel30.ResumeLayout(false);
+            this.panel30.PerformLayout();
+            this.panel32.ResumeLayout(false);
+            this.panel32.PerformLayout();
+            this.panel33.ResumeLayout(false);
+            this.panel33.PerformLayout();
             this.panel46.ResumeLayout(false);
             this.panel50.ResumeLayout(false);
             this.panel50.PerformLayout();
@@ -1008,18 +992,35 @@
             this.panel28.PerformLayout();
             this.panel29.ResumeLayout(false);
             this.panel29.PerformLayout();
-            this.panel3.ResumeLayout(false);
-            this.panel30.ResumeLayout(false);
-            this.panel30.PerformLayout();
-            this.panel32.ResumeLayout(false);
-            this.panel32.PerformLayout();
-            this.panel33.ResumeLayout(false);
-            this.panel33.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            this.panel11.ResumeLayout(false);
+            this.panel16.ResumeLayout(false);
+            this.panel17.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.data_view)).EndInit();
+            this.panel18.ResumeLayout(false);
+            this.panel21.ResumeLayout(false);
+            this.panel21.PerformLayout();
             this.panel27.ResumeLayout(false);
             this.panel27.PerformLayout();
             this.panel61.ResumeLayout(false);
             this.panel62.ResumeLayout(false);
             this.panel62.PerformLayout();
+            this.panel23.ResumeLayout(false);
+            this.panel24.ResumeLayout(false);
+            this.panel24.PerformLayout();
+            this.panel25.ResumeLayout(false);
+            this.panel25.PerformLayout();
+            this.panel26.ResumeLayout(false);
+            this.panel224.ResumeLayout(false);
+            this.panel224.PerformLayout();
+            this.panel225.ResumeLayout(false);
+            this.panel225.PerformLayout();
             this.ResumeLayout(false);
 
         }
