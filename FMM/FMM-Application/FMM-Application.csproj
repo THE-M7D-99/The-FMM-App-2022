@@ -69,6 +69,30 @@
     <Compile Include="App\UIs\Home\HomeForm.Designer.cs">
       <DependentUpon>HomeForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="App\UIs\Permissions\AF\UIS_Exchang_Order\ExchangOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AF\UIS_Exchang_Order\ExchangOrderForm.Designer.cs">
+      <DependentUpon>ExchangOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AF\UIS_Supply_order\supplyOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AF\UIS_Supply_order\supplyOrderForm.Designer.cs">
+      <DependentUpon>supplyOrderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AF\UI_Sell_Stores\Raw_Materials\RawMaterialsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AF\UI_Sell_Stores\Raw_Materials\RawMaterialsForm.Designer.cs">
+      <DependentUpon>RawMaterialsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AF\UI_Sell_Stores\UI_Instruments\InstrumentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AF\UI_Sell_Stores\UI_Instruments\InstrumentsForm.Designer.cs">
+      <DependentUpon>InstrumentsForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="App\UIs\Permissions\AM\ApplicantsData\ApplicantsDataForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +130,96 @@
     <Compile Include="App\UIs\Permissions\AM\SalariesData\SalariesDataForm.Designer.cs">
       <DependentUpon>SalariesDataForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="App\UIs\Permissions\AS\SparePartsDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AS\SparePartsDataForm.designer.cs">
+      <DependentUpon>SparePartsDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AS\StoresDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AS\StoresDataForm.designer.cs">
+      <DependentUpon>StoresDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AS\StoresOfProductsDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AS\StoresOfProductsDataForm.designer.cs">
+      <DependentUpon>StoresOfProductsDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AS\SuppliesDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\AS\SuppliesDataForm.designer.cs">
+      <DependentUpon>SuppliesDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\MR\Product\AddingProduct\AddingProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\MR\Product\AddingProduct\AddingProduct.Designer.cs">
+      <DependentUpon>AddingProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\NS\BillSaleData\BillSaleDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\NS\BillSaleData\BillSaleDataForm.Designer.cs">
+      <DependentUpon>BillSaleDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\NS\InfiltratorData\InfiltratorDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\NS\InfiltratorData\InfiltratorDataForm.Designer.cs">
+      <DependentUpon>InfiltratorDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\RM\MaintenanceData\MaintenanceDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\RM\MaintenanceData\MaintenanceDataForm.Designer.cs">
+      <DependentUpon>MaintenanceDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\RM\QualityData\Quality Standards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\RM\QualityData\Quality Standards.Designer.cs">
+      <DependentUpon>Quality Standards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\RM\QualityData\QualityDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\RM\QualityData\QualityDataForm.Designer.cs">
+      <DependentUpon>QualityDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\SH\Files.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\SH\Files.Designer.cs">
+      <DependentUpon>Files.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\SH\Project.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\SH\Project.Designer.cs">
+      <DependentUpon>Project.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\SH\Study.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\SH\Study.Designer.cs">
+      <DependentUpon>Study.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\ZM\Bill\Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\ZM\Bill\Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\ZM\Seller\Seller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\UIs\Permissions\ZM\Seller\Seller.Designer.cs">
+      <DependentUpon>Seller.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -126,6 +240,18 @@
     <EmbeddedResource Include="App\UIs\Home\HomeForm.resx">
       <DependentUpon>HomeForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\AF\UIS_Exchang_Order\ExchangOrderForm.resx">
+      <DependentUpon>ExchangOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\AF\UIS_Supply_order\supplyOrderForm.resx">
+      <DependentUpon>supplyOrderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\AF\UI_Sell_Stores\Raw_Materials\RawMaterialsForm.resx">
+      <DependentUpon>RawMaterialsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\AF\UI_Sell_Stores\UI_Instruments\InstrumentsForm.resx">
+      <DependentUpon>InstrumentsForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="App\UIs\Permissions\AM\ApplicantsData\ApplicantsDataForm.resx">
       <DependentUpon>ApplicantsDataForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -143,6 +269,51 @@
     </EmbeddedResource>
     <EmbeddedResource Include="App\UIs\Permissions\AM\SalariesData\SalariesDataForm.resx">
       <DependentUpon>SalariesDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\AS\SparePartsDataForm.resx">
+      <DependentUpon>SparePartsDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\AS\StoresDataForm.resx">
+      <DependentUpon>StoresDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\AS\StoresOfProductsDataForm.resx">
+      <DependentUpon>StoresOfProductsDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\AS\SuppliesDataForm.resx">
+      <DependentUpon>SuppliesDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\MR\Product\AddingProduct\AddingProduct.resx">
+      <DependentUpon>AddingProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\NS\BillSaleData\BillSaleDataForm.resx">
+      <DependentUpon>BillSaleDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\NS\InfiltratorData\InfiltratorDataForm.resx">
+      <DependentUpon>InfiltratorDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\RM\MaintenanceData\MaintenanceDataForm.resx">
+      <DependentUpon>MaintenanceDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\RM\QualityData\Quality Standards.resx">
+      <DependentUpon>Quality Standards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\RM\QualityData\QualityDataForm.resx">
+      <DependentUpon>QualityDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\SH\Files.resx">
+      <DependentUpon>Files.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\SH\Project.resx">
+      <DependentUpon>Project.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\SH\Study.resx">
+      <DependentUpon>Study.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\ZM\Bill\Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App\UIs\Permissions\ZM\Seller\Seller.resx">
+      <DependentUpon>Seller.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">

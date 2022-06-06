@@ -392,10 +392,10 @@
             this.panel59.AutoSize = true;
             this.panel59.Controls.Add(this.label3);
             this.panel59.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel59.Location = new System.Drawing.Point(317, 0);
+            this.panel59.Location = new System.Drawing.Point(326, 0);
             this.panel59.Name = "panel59";
             this.panel59.Padding = new System.Windows.Forms.Padding(8);
-            this.panel59.Size = new System.Drawing.Size(193, 38);
+            this.panel59.Size = new System.Drawing.Size(184, 38);
             this.panel59.TabIndex = 20;
             // 
             // label3
@@ -405,9 +405,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
             this.label3.Location = new System.Drawing.Point(8, 8);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(177, 20);
+            this.label3.Size = new System.Drawing.Size(168, 20);
             this.label3.TabIndex = 16;
-            this.label3.Text = "البيانات الصنف الأساسية :-";
+            this.label3.Text = "بيانات الصنف الأساسية :-";
             // 
             // panel67
             // 
