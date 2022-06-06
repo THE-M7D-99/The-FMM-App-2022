@@ -1,6 +1,6 @@
-﻿namespace FMM_Application.App.UIs.Permissions.MR.Product.AddingProduct
+﻿namespace FMM_Application.App.UIs.Permissions.MR.ProductsData
 {
-    partial class AddingProduct
+    partial class ProductsDataForm
     {
         /// <summary>
         /// Required designer variable.
@@ -1768,14 +1768,14 @@
             this.panel53.Size = new System.Drawing.Size(510, 38);
             this.panel53.TabIndex = 58;
             // 
-            // AddingProduct
+            // ProductsDataForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1370, 749);
             this.Controls.Add(this.panel60);
             this.Controls.Add(this.panel8);
-            this.Name = "AddingProduct";
+            this.Name = "ProductsDataForm";
             this.Text = "AddingProduct";
             this.panel69.ResumeLayout(false);
             this.panel69.PerformLayout();

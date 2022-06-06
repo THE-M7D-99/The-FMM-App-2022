@@ -1,18 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FMM_Application.App.UIs.Permissions.MR.Product.AddingProduct
+namespace FMM_Application.App.UIs.Permissions.MR.ProductsData
 {
-    public partial class AddingProduct : Form
+    public partial class ProductsDataForm : Form
     {
-        public AddingProduct()
+        public ProductsDataForm()
         {
             InitializeComponent();
         }
