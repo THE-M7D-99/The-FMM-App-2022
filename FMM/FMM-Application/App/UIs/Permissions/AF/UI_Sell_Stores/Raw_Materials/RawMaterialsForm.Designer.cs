@@ -30,24 +30,11 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel83 = new System.Windows.Forms.Panel();
-            this.panel84 = new System.Windows.Forms.Panel();
-            this.d_cmb = new System.Windows.Forms.ComboBox();
-            this.panel85 = new System.Windows.Forms.Panel();
-            this.label9 = new System.Windows.Forms.Label();
-            this.panel89 = new System.Windows.Forms.Panel();
-            this.iconButton1 = new FontAwesome.Sharp.IconButton();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.panel88 = new System.Windows.Forms.Panel();
-            this.panel87 = new System.Windows.Forms.Panel();
-            this.panel86 = new System.Windows.Forms.Panel();
-            this.panel22 = new System.Windows.Forms.Panel();
             this.panel116 = new System.Windows.Forms.Panel();
             this.panel117 = new System.Windows.Forms.Panel();
             this.label23 = new System.Windows.Forms.Label();
             this.panel125 = new System.Windows.Forms.Panel();
             this.panel21 = new System.Windows.Forms.Panel();
-            this.panel23 = new System.Windows.Forms.Panel();
             this.panel16 = new System.Windows.Forms.Panel();
             this.panel17 = new System.Windows.Forms.Panel();
             this.dgv_data = new System.Windows.Forms.DataGridView();
@@ -91,15 +78,18 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel30 = new System.Windows.Forms.Panel();
             this.panel32 = new System.Windows.Forms.Panel();
+            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
             this.panel33 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
             this.panel46 = new System.Windows.Forms.Panel();
             this.panel50 = new System.Windows.Forms.Panel();
             this.panel51 = new System.Windows.Forms.Panel();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.panel52 = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.panel53 = new System.Windows.Forms.Panel();
             this.panel59 = new System.Windows.Forms.Panel();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.panel67 = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
@@ -119,17 +109,17 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel15 = new System.Windows.Forms.Panel();
             this.panel10 = new System.Windows.Forms.Panel();
             this.panel8 = new System.Windows.Forms.Panel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
-            this.panel83.SuspendLayout();
-            this.panel84.SuspendLayout();
-            this.panel85.SuspendLayout();
-            this.panel89.SuspendLayout();
-            this.panel88.SuspendLayout();
-            this.panel87.SuspendLayout();
-            this.panel86.SuspendLayout();
-            this.panel22.SuspendLayout();
+            this.panel86 = new System.Windows.Forms.Panel();
+            this.panel87 = new System.Windows.Forms.Panel();
+            this.panel88 = new System.Windows.Forms.Panel();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.panel89 = new System.Windows.Forms.Panel();
+            this.iconButton1 = new FontAwesome.Sharp.IconButton();
+            this.panel83 = new System.Windows.Forms.Panel();
+            this.panel84 = new System.Windows.Forms.Panel();
+            this.d_cmb = new System.Windows.Forms.ComboBox();
+            this.panel85 = new System.Windows.Forms.Panel();
+            this.label9 = new System.Windows.Forms.Label();
             this.panel116.SuspendLayout();
             this.panel117.SuspendLayout();
             this.panel21.SuspendLayout();
@@ -158,6 +148,7 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel3.SuspendLayout();
             this.panel30.SuspendLayout();
             this.panel32.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
             this.panel33.SuspendLayout();
             this.panel46.SuspendLayout();
             this.panel50.SuspendLayout();
@@ -179,141 +170,14 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel15.SuspendLayout();
             this.panel10.SuspendLayout();
             this.panel8.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
+            this.panel86.SuspendLayout();
+            this.panel87.SuspendLayout();
+            this.panel88.SuspendLayout();
+            this.panel89.SuspendLayout();
+            this.panel83.SuspendLayout();
+            this.panel84.SuspendLayout();
+            this.panel85.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // panel83
-            // 
-            this.panel83.Controls.Add(this.panel84);
-            this.panel83.Controls.Add(this.panel85);
-            this.panel83.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel83.Location = new System.Drawing.Point(507, 8);
-            this.panel83.Name = "panel83";
-            this.panel83.Padding = new System.Windows.Forms.Padding(8);
-            this.panel83.Size = new System.Drawing.Size(233, 44);
-            this.panel83.TabIndex = 10;
-            // 
-            // panel84
-            // 
-            this.panel84.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.panel84.Controls.Add(this.d_cmb);
-            this.panel84.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel84.Location = new System.Drawing.Point(6, 8);
-            this.panel84.Name = "panel84";
-            this.panel84.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
-            this.panel84.Size = new System.Drawing.Size(168, 28);
-            this.panel84.TabIndex = 19;
-            // 
-            // d_cmb
-            // 
-            this.d_cmb.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.d_cmb.FormattingEnabled = true;
-            this.d_cmb.Location = new System.Drawing.Point(0, 8);
-            this.d_cmb.Name = "d_cmb";
-            this.d_cmb.Size = new System.Drawing.Size(168, 21);
-            this.d_cmb.TabIndex = 0;
-            // 
-            // panel85
-            // 
-            this.panel85.AutoSize = true;
-            this.panel85.Controls.Add(this.label9);
-            this.panel85.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel85.Location = new System.Drawing.Point(174, 8);
-            this.panel85.Name = "panel85";
-            this.panel85.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
-            this.panel85.Size = new System.Drawing.Size(51, 28);
-            this.panel85.TabIndex = 18;
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Dock = System.Windows.Forms.DockStyle.Left;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
-            this.label9.Location = new System.Drawing.Point(0, 8);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(51, 20);
-            this.label9.TabIndex = 16;
-            this.label9.Text = "المخزن";
-            // 
-            // panel89
-            // 
-            this.panel89.AutoSize = true;
-            this.panel89.Controls.Add(this.iconButton1);
-            this.panel89.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel89.Location = new System.Drawing.Point(4, 4);
-            this.panel89.Name = "panel89";
-            this.panel89.Padding = new System.Windows.Forms.Padding(0, 4, 0, 4);
-            this.panel89.Size = new System.Drawing.Size(28, 28);
-            this.panel89.TabIndex = 26;
-            // 
-            // iconButton1
-            // 
-            this.iconButton1.BackColor = System.Drawing.SystemColors.Control;
-            this.iconButton1.Dock = System.Windows.Forms.DockStyle.Left;
-            this.iconButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.iconButton1.ForeColor = System.Drawing.SystemColors.Control;
-            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.Search;
-            this.iconButton1.IconColor = System.Drawing.Color.Black;
-            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.iconButton1.IconSize = 24;
-            this.iconButton1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.iconButton1.Location = new System.Drawing.Point(0, 4);
-            this.iconButton1.Name = "iconButton1";
-            this.iconButton1.Size = new System.Drawing.Size(28, 20);
-            this.iconButton1.TabIndex = 6;
-            this.iconButton1.TextAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.iconButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
-            this.iconButton1.UseVisualStyleBackColor = false;
-            // 
-            // textBox7
-            // 
-            this.textBox7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox7.Location = new System.Drawing.Point(0, 8);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(156, 20);
-            this.textBox7.TabIndex = 2;
-            // 
-            // panel88
-            // 
-            this.panel88.Controls.Add(this.textBox7);
-            this.panel88.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel88.Location = new System.Drawing.Point(32, 4);
-            this.panel88.Name = "panel88";
-            this.panel88.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
-            this.panel88.Size = new System.Drawing.Size(156, 28);
-            this.panel88.TabIndex = 27;
-            // 
-            // panel87
-            // 
-            this.panel87.Controls.Add(this.panel88);
-            this.panel87.Controls.Add(this.panel89);
-            this.panel87.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel87.Location = new System.Drawing.Point(4, 4);
-            this.panel87.Name = "panel87";
-            this.panel87.Padding = new System.Windows.Forms.Padding(4);
-            this.panel87.Size = new System.Drawing.Size(192, 36);
-            this.panel87.TabIndex = 17;
-            // 
-            // panel86
-            // 
-            this.panel86.Controls.Add(this.panel87);
-            this.panel86.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel86.Location = new System.Drawing.Point(8, 8);
-            this.panel86.Name = "panel86";
-            this.panel86.Padding = new System.Windows.Forms.Padding(4);
-            this.panel86.Size = new System.Drawing.Size(200, 44);
-            this.panel86.TabIndex = 22;
-            // 
-            // panel22
-            // 
-            this.panel22.Controls.Add(this.panel86);
-            this.panel22.Controls.Add(this.panel83);
-            this.panel22.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel22.Location = new System.Drawing.Point(-16, 4);
-            this.panel22.Name = "panel22";
-            this.panel22.Padding = new System.Windows.Forms.Padding(8);
-            this.panel22.Size = new System.Drawing.Size(748, 60);
-            this.panel22.TabIndex = 24;
             // 
             // panel116
             // 
@@ -360,23 +224,14 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             // 
             // panel21
             // 
-            this.panel21.Controls.Add(this.panel22);
-            this.panel21.Controls.Add(this.panel23);
+            this.panel21.Controls.Add(this.panel86);
+            this.panel21.Controls.Add(this.panel83);
             this.panel21.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel21.Location = new System.Drawing.Point(8, 8);
             this.panel21.Name = "panel21";
             this.panel21.Padding = new System.Windows.Forms.Padding(4);
             this.panel21.Size = new System.Drawing.Size(736, 68);
             this.panel21.TabIndex = 4;
-            // 
-            // panel23
-            // 
-            this.panel23.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel23.Location = new System.Drawing.Point(4, 4);
-            this.panel23.Name = "panel23";
-            this.panel23.Padding = new System.Windows.Forms.Padding(4);
-            this.panel23.Size = new System.Drawing.Size(200, 60);
-            this.panel23.TabIndex = 21;
             // 
             // panel16
             // 
@@ -835,6 +690,14 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel32.Size = new System.Drawing.Size(387, 32);
             this.panel32.TabIndex = 24;
             // 
+            // numericUpDown2
+            // 
+            this.numericUpDown2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.numericUpDown2.Location = new System.Drawing.Point(0, 6);
+            this.numericUpDown2.Name = "numericUpDown2";
+            this.numericUpDown2.Size = new System.Drawing.Size(387, 20);
+            this.numericUpDown2.TabIndex = 3;
+            // 
             // panel33
             // 
             this.panel33.AutoSize = true;
@@ -890,6 +753,14 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel51.Size = new System.Drawing.Size(187, 32);
             this.panel51.TabIndex = 28;
             // 
+            // textBox2
+            // 
+            this.textBox2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBox2.Location = new System.Drawing.Point(0, 6);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(187, 20);
+            this.textBox2.TabIndex = 3;
+            // 
             // panel52
             // 
             this.panel52.AutoSize = true;
@@ -932,6 +803,14 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel59.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel59.Size = new System.Drawing.Size(140, 32);
             this.panel59.TabIndex = 27;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBox1.Location = new System.Drawing.Point(0, 6);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(140, 20);
+            this.textBox1.TabIndex = 3;
             // 
             // panel67
             // 
@@ -1145,29 +1024,127 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel8.Size = new System.Drawing.Size(560, 717);
             this.panel8.TabIndex = 69;
             // 
-            // textBox1
+            // panel86
             // 
-            this.textBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox1.Location = new System.Drawing.Point(0, 6);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(140, 20);
-            this.textBox1.TabIndex = 3;
+            this.panel86.Controls.Add(this.panel87);
+            this.panel86.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel86.Location = new System.Drawing.Point(4, 4);
+            this.panel86.Name = "panel86";
+            this.panel86.Padding = new System.Windows.Forms.Padding(4);
+            this.panel86.Size = new System.Drawing.Size(200, 60);
+            this.panel86.TabIndex = 24;
             // 
-            // textBox2
+            // panel87
             // 
-            this.textBox2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox2.Location = new System.Drawing.Point(0, 6);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(187, 20);
-            this.textBox2.TabIndex = 3;
+            this.panel87.Controls.Add(this.panel88);
+            this.panel87.Controls.Add(this.panel89);
+            this.panel87.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel87.Location = new System.Drawing.Point(4, 4);
+            this.panel87.Name = "panel87";
+            this.panel87.Padding = new System.Windows.Forms.Padding(4);
+            this.panel87.Size = new System.Drawing.Size(192, 52);
+            this.panel87.TabIndex = 17;
             // 
-            // numericUpDown2
+            // panel88
             // 
-            this.numericUpDown2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.numericUpDown2.Location = new System.Drawing.Point(0, 6);
-            this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(387, 20);
-            this.numericUpDown2.TabIndex = 3;
+            this.panel88.Controls.Add(this.textBox7);
+            this.panel88.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel88.Location = new System.Drawing.Point(32, 4);
+            this.panel88.Name = "panel88";
+            this.panel88.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
+            this.panel88.Size = new System.Drawing.Size(156, 44);
+            this.panel88.TabIndex = 27;
+            // 
+            // textBox7
+            // 
+            this.textBox7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.textBox7.Location = new System.Drawing.Point(0, 8);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(156, 20);
+            this.textBox7.TabIndex = 2;
+            // 
+            // panel89
+            // 
+            this.panel89.AutoSize = true;
+            this.panel89.Controls.Add(this.iconButton1);
+            this.panel89.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel89.Location = new System.Drawing.Point(4, 4);
+            this.panel89.Name = "panel89";
+            this.panel89.Padding = new System.Windows.Forms.Padding(0, 4, 0, 4);
+            this.panel89.Size = new System.Drawing.Size(28, 44);
+            this.panel89.TabIndex = 26;
+            // 
+            // iconButton1
+            // 
+            this.iconButton1.BackColor = System.Drawing.SystemColors.Control;
+            this.iconButton1.Dock = System.Windows.Forms.DockStyle.Left;
+            this.iconButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.iconButton1.ForeColor = System.Drawing.SystemColors.Control;
+            this.iconButton1.IconChar = FontAwesome.Sharp.IconChar.Search;
+            this.iconButton1.IconColor = System.Drawing.Color.Black;
+            this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.iconButton1.IconSize = 24;
+            this.iconButton1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.iconButton1.Location = new System.Drawing.Point(0, 4);
+            this.iconButton1.Name = "iconButton1";
+            this.iconButton1.Size = new System.Drawing.Size(28, 36);
+            this.iconButton1.TabIndex = 6;
+            this.iconButton1.TextAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.iconButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.TextAboveImage;
+            this.iconButton1.UseVisualStyleBackColor = false;
+            // 
+            // panel83
+            // 
+            this.panel83.Controls.Add(this.panel84);
+            this.panel83.Controls.Add(this.panel85);
+            this.panel83.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel83.Location = new System.Drawing.Point(499, 4);
+            this.panel83.Name = "panel83";
+            this.panel83.Padding = new System.Windows.Forms.Padding(8);
+            this.panel83.Size = new System.Drawing.Size(233, 60);
+            this.panel83.TabIndex = 23;
+            // 
+            // panel84
+            // 
+            this.panel84.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.panel84.Controls.Add(this.d_cmb);
+            this.panel84.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel84.Location = new System.Drawing.Point(6, 8);
+            this.panel84.Name = "panel84";
+            this.panel84.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
+            this.panel84.Size = new System.Drawing.Size(168, 44);
+            this.panel84.TabIndex = 19;
+            // 
+            // d_cmb
+            // 
+            this.d_cmb.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.d_cmb.FormattingEnabled = true;
+            this.d_cmb.Location = new System.Drawing.Point(0, 8);
+            this.d_cmb.Name = "d_cmb";
+            this.d_cmb.Size = new System.Drawing.Size(168, 21);
+            this.d_cmb.TabIndex = 0;
+            // 
+            // panel85
+            // 
+            this.panel85.AutoSize = true;
+            this.panel85.Controls.Add(this.label9);
+            this.panel85.Dock = System.Windows.Forms.DockStyle.Right;
+            this.panel85.Location = new System.Drawing.Point(174, 8);
+            this.panel85.Name = "panel85";
+            this.panel85.Padding = new System.Windows.Forms.Padding(0, 8, 0, 8);
+            this.panel85.Size = new System.Drawing.Size(51, 44);
+            this.panel85.TabIndex = 18;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Dock = System.Windows.Forms.DockStyle.Left;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold);
+            this.label9.Location = new System.Drawing.Point(0, 8);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(51, 20);
+            this.label9.TabIndex = 16;
+            this.label9.Text = "المخزن";
             // 
             // RawMaterialsForm
             // 
@@ -1180,18 +1157,6 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.Padding = new System.Windows.Forms.Padding(16);
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.Text = "EmployeesDataForm";
-            this.panel83.ResumeLayout(false);
-            this.panel83.PerformLayout();
-            this.panel84.ResumeLayout(false);
-            this.panel85.ResumeLayout(false);
-            this.panel85.PerformLayout();
-            this.panel89.ResumeLayout(false);
-            this.panel88.ResumeLayout(false);
-            this.panel88.PerformLayout();
-            this.panel87.ResumeLayout(false);
-            this.panel87.PerformLayout();
-            this.panel86.ResumeLayout(false);
-            this.panel22.ResumeLayout(false);
             this.panel116.ResumeLayout(false);
             this.panel116.PerformLayout();
             this.panel117.ResumeLayout(false);
@@ -1236,6 +1201,7 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel30.ResumeLayout(false);
             this.panel30.PerformLayout();
             this.panel32.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
             this.panel33.ResumeLayout(false);
             this.panel33.PerformLayout();
             this.panel46.ResumeLayout(false);
@@ -1274,31 +1240,27 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
             this.panel10.ResumeLayout(false);
             this.panel10.PerformLayout();
             this.panel8.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
+            this.panel86.ResumeLayout(false);
+            this.panel87.ResumeLayout(false);
+            this.panel87.PerformLayout();
+            this.panel88.ResumeLayout(false);
+            this.panel88.PerformLayout();
+            this.panel89.ResumeLayout(false);
+            this.panel83.ResumeLayout(false);
+            this.panel83.PerformLayout();
+            this.panel84.ResumeLayout(false);
+            this.panel85.ResumeLayout(false);
+            this.panel85.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Panel panel83;
-        private System.Windows.Forms.Panel panel84;
-        private System.Windows.Forms.ComboBox d_cmb;
-        private System.Windows.Forms.Panel panel85;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Panel panel89;
-        private FontAwesome.Sharp.IconButton iconButton1;
-        private System.Windows.Forms.TextBox textBox7;
-        private System.Windows.Forms.Panel panel88;
-        private System.Windows.Forms.Panel panel87;
-        private System.Windows.Forms.Panel panel86;
-        private System.Windows.Forms.Panel panel22;
         private System.Windows.Forms.Panel panel116;
         private System.Windows.Forms.Panel panel117;
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Panel panel125;
         private System.Windows.Forms.Panel panel21;
-        private System.Windows.Forms.Panel panel23;
         private System.Windows.Forms.Panel panel16;
         private System.Windows.Forms.Panel panel17;
         private System.Windows.Forms.DataGridView dgv_data;
@@ -1373,5 +1335,16 @@ namespace FMM_Application.App.UIs.Permissions.AS.UI_Sell_Stores.Raw_Materials.Ra
         private System.Windows.Forms.Panel panel15;
         private System.Windows.Forms.Panel panel10;
         private System.Windows.Forms.Panel panel8;
+        private System.Windows.Forms.Panel panel86;
+        private System.Windows.Forms.Panel panel87;
+        private System.Windows.Forms.Panel panel88;
+        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.Panel panel89;
+        private FontAwesome.Sharp.IconButton iconButton1;
+        private System.Windows.Forms.Panel panel83;
+        private System.Windows.Forms.Panel panel84;
+        private System.Windows.Forms.ComboBox d_cmb;
+        private System.Windows.Forms.Panel panel85;
+        private System.Windows.Forms.Label label9;
     }
 }
