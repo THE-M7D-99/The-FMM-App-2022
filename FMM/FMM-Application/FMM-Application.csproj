@@ -154,11 +154,11 @@
     <Compile Include="App\UIs\Permissions\AS\SuppliesDataForm.designer.cs">
       <DependentUpon>SuppliesDataForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="App\UIs\Permissions\MR\Product\AddingProduct\AddingProduct.cs">
+    <Compile Include="App\UIs\Permissions\MR\ProductsData\ProductsDataForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="App\UIs\Permissions\MR\Product\AddingProduct\AddingProduct.Designer.cs">
-      <DependentUpon>AddingProduct.cs</DependentUpon>
+    <Compile Include="App\UIs\Permissions\MR\ProductsData\ProductsDataForm.Designer.cs">
+      <DependentUpon>ProductsDataForm.cs</DependentUpon>
     </Compile>
     <Compile Include="App\UIs\Permissions\NS\BillSaleData\BillSaleDataForm.cs">
       <SubType>Form</SubType>
@@ -282,8 +282,8 @@
     <EmbeddedResource Include="App\UIs\Permissions\AS\SuppliesDataForm.resx">
       <DependentUpon>SuppliesDataForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="App\UIs\Permissions\MR\Product\AddingProduct\AddingProduct.resx">
-      <DependentUpon>AddingProduct.cs</DependentUpon>
+    <EmbeddedResource Include="App\UIs\Permissions\MR\ProductsData\ProductsDataForm.resx">
+      <DependentUpon>ProductsDataForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="App\UIs\Permissions\NS\BillSaleData\BillSaleDataForm.resx">
       <DependentUpon>BillSaleDataForm.cs</DependentUpon>
