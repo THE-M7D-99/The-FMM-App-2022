@@ -1,0 +1,153 @@
+﻿مسميات عناصر واجهات الحسابات الشخصية
+===========================
+PresonalAccForm			واجهة الحسابات الشخصية
+bCntrl_presonal_accounts 		تاب كنترول الحسابات الشخصية
+===========================
+**********************************************************************
+مسميات عناصر بيانات حسابات الموظفين في واجهة الحسابات الشخصية
+empa اختصار ل بيانات حسابات الموظفين employers accounts 
+***********************************************************************
+
+tbPg_employees_accounts		تاب صفحة  حسابات الموظفين 
+txtBx_search_acc_num_empa	نص البحث برقم ح -حساب -الموظف في  حسابات الموظفين 
+txtBx_search_emp_name_empa	نص البحث باسم  الموظف  في  حسابات الموظفين
+icBtn_search_emp_acc_num_empa	زر ايقونة بحث برقم ح -حساب -الموظف
+icBtn_search_emp_name_empa	زر ايقونة بحث باسم  الموظف
+
+dgv_empa				 data grid view جدول  حسابات الموظفين
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة حسابات الموظفين ---------
+
+txtBx_emp_acc_num_empa  		نص رقم حساب الموظف
+txtBx_emp_department_empa  	نص قسم الموظف
+txtBx_account_name_empa  		نص اسم الحساب 
+txtBx_balance_empa  		نص الرصيد
+txtBx_jab_empa  			نص الوظيفة 
+dateTime_date_empa  		التاريخ 
+txtBx_absence_num_empa  		نص عدد الغياب 
+txtBx_discount_empa  		نص الخصم 
+txtBx_total_empa  			نص الاجمالي 
+
+pctBx_emp_image_empa  		صورة الموظف 
+btn_emp_change_image_empa  	زر تغير صورة الموظف
+
+----------ازرار حسابات الموظفين the names buttons ------------------
+
+btn_empa_save			زر الحفظ 
+btn_empa_edit			زر التعديل 
+btn_empa_add			زر الاضافة   
+btn_empa_delete			زر الحذف 
+btn_empa_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
+
+**********************************************************************
+مسميات عناصر بيانات حسابات العملاء في واجهة الحسابات الشخصية
+ca اختصار ل بيانات حسابات العملاء customers accounts 
+***********************************************************************
+
+tbPg_customers_accounts		تاب صفحة  حسابات العملاء 
+txtBx_search_acc_num_ca	نص البحث برقم ح -حساب -العميل في  حسابات العملاء 
+txtBx_search_name_ca	نص البحث باسم  العميل في  حسابات العملاء 
+icBtn_search_acc_num_ca	زر ايقونة بحث برقم ح -حساب -العميل 
+icBtn_search_name_ca	زر ايقونة بحث باسم  العميل 
+
+dgv_ca				 data grid view جدول  حسابات العملاء 
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة حسابات العملاء ---------
+
+txtBx_acc_num_ca  		نص رقم حساب العميل  
+txtBx_account_name_ca  		نص اسم الحساب 
+txtBx_balance_ca  			نص الرصيد 
+dateTime_date_ca  		التاريخ 
+txtBx_discount_ca  			نص الخصم 
+txtBx_phone_ca  			نص رقم الهاتف
+txtBx_notice_ca  			نص ملاحظات
+txtBx_debit_ca  			نص مدين - مبلغ -
+txtBx_credit_ca  			نص دائن - مبلغ -
+pctBx_customer_image_ca  		صورة العميل 
+btn_change_image_ca  		زر تغير صورة العميل 
+
+----------ازرار حسابات العملاء the names buttons ------------------
+
+btn_ca_save			زر الحفظ 
+btn_ca_edit			زر التعديل 
+btn_ca_add			زر الاضافة   
+btn_ca_delete			زر الحذف 
+btn_ca_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
+
+
+**********************************************************************
+مسميات عناصر بيانات حسابات العملاء في واجهة الحسابات الشخصية
+sa اختصار ل بيانات حسابات الموردين suppliers accounts 
+***********************************************************************
+
+tbPg_suppliers_accounts		تاب صفحة  حسابات الموردين 
+txtBx_search_acc_num_sa	نص البحث برقم ح -حساب -المورد في  حسابات الموردين 
+txtBx_search_name_sa	نص البحث باسم  المورد في  حسابات الموردين 
+icBtn_search_acc_num_sa	زر ايقونة بحث برقم ح -حساب -المورد 
+icBtn_search_name_sa	زر ايقونة بحث باسم  المورد 
+
+dgv_sa				 data grid view جدول  حسابات الموردين 
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة حسابات الموردين ---------
+
+txtBx_acc_num_sa  			نص رقم حساب المورد 
+txtBx_account_name_sa  		نص اسم الحساب 
+txtBx_balance_sa  			نص الرصيد 
+dateTime_date_sa  			التاريخ 
+txtBx_discount_sa  			نص الخصم 
+txtBx_phone_sa  			نص رقم الهاتف
+txtBx_notice_sa  			نص ملاحظات
+txtBx_debit_sa  			نص مدين - مبلغ -
+txtBx_credit_sa  			نص دائن - مبلغ -
+cmBx_supplier_type_sa  		قائمة نوع المورد
+txtBx_field_of_supply_sa  		نص مجال التوريد
+pctBx_supplier_image_sa  		صورة المورد 
+btn_change_image_sa  		زر تغير صورة المورد 
+
+----------ازرار حسابات الموردين the names buttons ------------------
+
+btn_sa_save			زر الحفظ 
+btn_sa_edit			زر التعديل 
+btn_sa_add			زر الاضافة   
+btn_sa_delete			زر الحذف 
+btn_sa_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
+
+
+**********************************************************************
+مسميات عناصر بيانات حسابات العملاء في واجهة الحسابات الشخصية
+oa اختصار ل بيانات حسابات الموردين others accounts 
+***********************************************************************
+
+tbPg_others_accounts		تاب صفحة  حسابات اخرى 
+txtBx_search_acc_num_oa	نص البحث برقم ح -حساب - في  حسابات اخرى 
+txtBx_search_name_oa	نص البحث باسم  الحساب في  حسابات اخرى 
+icBtn_search_acc_num_oa	زر ايقونة بحث برقم ح -حساب -
+icBtn_search_name_oa	زر ايقونة بحث باسم  الحساب 
+
+dgv_oa				 data grid view جدول  حسابات اخرى 
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة حسابات اخرى ---------
+
+txtBx_acc_num_oa  			نص رقم حساب 
+txtBx_account_name_oa  		نص اسم الحساب 
+txtBx_balance_oa  			نص الرصيد 
+dateTime_creation_date_oa  		تاريخ الانشاء 
+dateTime_pirth_date_oa  		تاريخ الميلاد
+txtBx_phone_oa  			نص رقم الهاتف
+txtBx_notice_oa  			نص ملاحظات
+txtBx_job_oa  			نص الوظيفة
+txtBx_address_oa  			نص العنوان 
+pctBx_other_account_image_oa  		صورة لحساب 
+btn_change_image_oa  		زر تغير صورة حساب 
+
+----------ازرار حسابات اخرى the names buttons ------------------
+
+btn_oa_save			زر الحفظ 
+btn_oa_edit			زر التعديل 
+btn_oa_add			زر الاضافة   
+btn_oa_delete			زر الحذف 
+btn_oa_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
