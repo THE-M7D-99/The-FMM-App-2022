@@ -1,0 +1,250 @@
+مسميات عناصر واجهات الحسابات العامة
+===========================
+GeneralAccForm			واجهة الحسابات العامة
+bCntrl_account_general		تاب كنترول الحسابات العامة
+**********************************************************************
+مسميات عناصر بيانات الميزانية في واجهة الحسابات العامة
+bd اختصار ل بيانات الميزانية budget data
+***********************************************************************
+tbPg_date_budget			تاب صفحة بيانات الميزانية
+txtBx_search_restration_num_bd	نص البحث برقم القيد
+txtBx_search_sub_account_num_bd	نص البحث برقم الحساب الفرعي
+txtBx_search_parent_account_bd	نص البحث باسم الحساب الاب
+cmBx_order_bd			قائمة الترتب حسب في الميزانية
+
+icBtn_search_restration_num_bd 	زر ايقونة بحث برقم القيد
+icBtn_search_sub_account_num_bd	زر ايقونة بحث برقم ح فرعي
+icBtn_search_parent_account_bd	زر ايقونة بحث باسم ح الاب
+
+
+dgv_budget_data			 data grid view جدول بيانات الميزانية
+clmn_txtBx__restration_bd  		عمود رقم القيد
+clmn_txtBx_date_bd			عمود التاريخ في جدول بيانات الميزانية
+clmn_txtBx_main_account_num_bd 	عمود رقم الحساب الرئيسي
+clmn_txtBx_main_accoun_bd 		عمود الحساب الرئيسي
+clmn_txtBx_parint_account_num_bd	عمود رقم الحساب الاب 
+clmn_txtBx_parint_account_bd	عمود  الحساب الاب 
+clmn_txtBx_sub_account_num_bd 	عمود رقم الحساب الفرعي 
+clmn_txtBx_sub_account_bd 		عمود  الحساب الفرعي 
+clmn_txtBX_debit_bdt 		عمود المدين في بيانات الميزانية
+clmn_txtBX_credit_bd		عمود الدائن في بيانات الميزانية
+clmn_txtBX_statement_bd 		عمود البيان في بيانات الميزانية
+clmn_txtBx_net_movement_bd	عمود صافي الحركة
+clmn_cmBx_menu_bd		عمود القائمة
+clmn_cmBx_balance_type_bd		عمود نوع الرصيد
+clmn_dateTime_from_date_bd		عمود من تاريخ
+clmn_dateTime_to_date_bd		الى تاريخ
+
+---------- ازرار بيانات الميزانية the names buttons------------------
+btn_bd_savet			زر الحفظ  
+btn_bd_edit			زر التعديل  
+btn_bd_add			زر الاضافة  
+btn_bd_report			زر تقرير 
+btn_bd_delete			زر الحذف  
+btn_bd_cancel			زر الالغاء 
+--------------------------------------------------------------------------------------------
+
+*************************************************************************
+مسميات عناصر الاصول والخصوم في واجهة الحسابات العامة
+ad اختصار ل الاصول والخصوم  assets and discounts
+-*************************************************************************
+
+tbPg_assets_and_discounts		تاب صفحة الاصول والخصوم
+txtBx_search_num_ad		نص البحث برقم  الاصول والخصوم
+txtBx_search_account_name_ad	نص البحث باسم  الحساب  في الاصول والخصوم
+cmBx_order_ad			قائمة الترتب حسب في الاصول والخصوم
+icBtn_search_account_name_ad	زر ايقونة بحث باسم  الحساب  في الاصول والخصوم
+icBtn_search_num_ad		زر ايقونة بحث برقم   الاصول والخصوم
+
+dgv_ad				 data grid view جدول الاصول والخصوم
+clmn_txtBx_num_ad  		عمود الرقم 
+clmn_txtBx_type_ad  		عمود النوع
+clmn_txtBx_account_name_ad  	عمود اسم الحساب 
+clmn_txtBx_statement_ad  		عمود البيان
+clmn_txtBx_amount_ad  		عمود المبلغ 
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة الاصول والخصوم ---------
+
+txtBx_num_ad  			نص الرقم 
+cmBx_type_ad			قائمة النوع
+txtBx_account_name_ad  		نص اسم الحساب 
+txtBx_statement_ad  		نص البيان
+txtBx_amount_ad	  		نص المبلغ 
+
+----------ازرار الاصول والخصوم  the names buttons ------------------
+
+btn_ad_assets			زر الاصول
+btn_ad_discounts			زر الخصوم
+btn_ad_save			زر الحفظ 
+btn_ad_edit			زر التعديل 
+btn_ad_add			زر الاضافة  
+btn_ad_report			زر تقرير  
+btn_ad_delete			زر الحذف 
+btn_ad_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
+
+******************************************************************************************
+مسميات عناصر المصروفات والايرادات في واجهة الحسابات العامة
+er اختصار ل المصروفات والايرادات Expenditure and Revenue 
+-*****************************************************************************************
+
+tbPg_expenditure_and_revenue	تاب صفحة المصروفات والايرادات
+txtBx_search_restration_num_er	نص البحث برقم القيد  في المصروفات والايرادات
+txtBx_search_account_name_er	نص البحث باسم  الحساب 
+cmBx_order_er			قائمة الترتب حسب في المصروفات والايرادات
+
+icBtn_search_account_name_er	زر ايقونة بحث باسم  الحساب
+icBtn_search_restration_num_er	زر ايقونة بحث برقم القيد 
+dgv_er				 data grid view جدول في المصروفات والايرادات
+clmn_txtBx_num_er  		عمود الرقم 
+clmn_txtBx_restration_num_er	عمود رقم القيد
+clmn_txtBx_date_er  		عمود التاريخ
+clmn_txtBx_account_name_er  	عمود اسم الحساب 
+clmn_txtBx_statement_er  		عمود البيان
+clmn_txtBx_amount_er  		عمود المبلغ 
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة المصروفات والايرادات ---------
+
+txtBx_num_er  			نص الرقم 
+txtBx_restration_num_er		نص رقم القيد
+dateTime_date_er			التاريخ 
+txtBx_account_name_er  		نص اسم الحساب 
+txtBx_statement_er  			نص البيان
+txtBx_amount_er	  		نص المبلغ 
+
+----------ازرار المصروفات والايرادات  the names buttons ------------------
+
+btn_er_revenue			زر الايرادات
+btn_er_expenditure			زر المصروفات
+btn_er_save			زر الحفظ 
+btn_er_edit			زر التعديل 
+btn_er_add			زر الاضافة  
+btn_er_report			زر تقرير  
+btn_er_delete			زر الحذف 
+btn_er_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
+
+******************************************************************************************
+مسميات عناصر ديون العملاء في واجهة الحسابات العامة
+cd اختصار ل ديون العملاء Customers debt
+-*****************************************************************************************
+
+tbPg_customers_debt		تاب صفحة ديون العملاء
+txtBx_search_process_num_cd	نص البحث برقم العملية في ديون العملاء
+txtBx_search_customer_name_cd	نص البحث باسم  العميل
+cmBx_order_cd			قائمة الترتب حسب في ديون العملاء
+icBtn_search_customer_name_cd	زر ايقونة بحث باسم  العميل
+icBtn_search_process_num_cd	زر ايقونة بحث برقم العملية 
+
+dgv_cd				 data grid view جدول في ديون العملاء
+clmn_txtBx_process_num_cd  	عمود رقم العملية
+clmn_txtBx_customer_acc_num_cd	عمود رقم ح العميل
+clmn_txtBx_date_cd  		عمود  التاريخ
+clmn_txtBx_customer_name_cd  	عمود اسم العميل
+clmn_txtBx_statement_cd  		عمود البيان
+clmn_txtBx_amount_cd  		عمود المبلغ 
+clmn_comBx_type_of_indebtedness_cd عمود قائمة نوع المديونية
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة ديون العملاء ---------
+
+txtBx_process_num_cd  		نص رقم العملية
+txtBx_customer_acc_num_cd		نص رقم ح العميل
+dateTime_date_cd  		التاريخ
+txtBx_customer_name_cd  		نص اسم العميل
+txtBx_statement_cd  		نص البيان
+txtBx_amount_cd  			نص المبلغ 
+comBx_type_of_indebtedness_cd	قائمة نوع المديونية
+
+----------ازرار ديون العملاء the names buttons ------------------
+
+btn_cd_desplay			زر عرض
+btn_cd_save			زر الحفظ 
+btn_cd_edit			زر التعديل 
+btn_cd_add			زر الاضافة  
+btn_cd_report			زر تقرير  
+btn_cd_delete			زر الحذف 
+btn_cd_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
+
+******************************************************************************************
+مسميات عناصر ديون الموردين في واجهة الحسابات العامة
+sd اختصار ل ديون الموردين suppliers debt
+-*****************************************************************************************
+
+tbPg_suppliers_debt		تاب صفحة ديون الموردين 
+txtBx_search_process_num_sd	نص البحث برقم العملية في ديون الموردين 
+txtBx_search_supplier_name_sd	نص البحث باسم  الموردين 
+cmBx_order_sd			قائمة الترتب حسب في ديون الموردين 
+icBtn_search_process_num_sd	زر ايقونة بحث برقم العملية 
+icBtn_search_supplier_name_sd	زر ايقونة بحث  باسم  الموردين
+
+dgv_sd				 data grid view جدول في ديون الموردين 
+clmn_txtBx_process_num_sd  	عمود رقم العملية
+clmn_txtBx_supplier_acc_num_sd	عمود رقم ح المورد
+clmn_txtBx_date_sd  		عمود  التاريخ
+clmn_txtBx_supplier_name_sd  	عمود اسم المورد
+clmn_txtBx_statement_sd  		عمود البيان
+clmn_txtBx_amount_sd  		عمود المبلغ 
+clmn_comBx_type_of_indebtedness_sd عمود قائمة نوع المديونية
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة ديون الموردين ---------
+
+txtBx_process_num_sd  		نص رقم العملية
+txtBx_supplier_acc_num_sd		نص رقم ح المورد
+dateTime_date_sd  			التاريخ
+txtBx_supplier_name_sd  		نص اسم المورد
+txtBx_statement_sd  		نص البيان
+txtBx_amount_sd  			نص المبلغ 
+comBx_type_of_indebtedness_sd	قائمة نوع المديونية
+
+----------ازرار ديون الموردين the names buttons ------------------
+
+btn_sd_desplay			زر عرض
+btn_sd_save			زر الحفظ 
+btn_sd_edit			زر التعديل 
+btn_sd_add			زر الاضافة  
+btn_sd_report			زر تقرير  
+btn_sd_delete			زر الحذف 
+btn_sd_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
+
+*************************************************************************
+مسميات عناصرالارصدة الافتتاحية  في واجهة الحسابات العامة
+ob اختصار ل الارصدة الافتتاحية  opening balances
+-*************************************************************************
+
+tbPg_opening_balances		تاب صفحة الارصدة الافتتاحية 
+txtBx_search_restration_num_ob	نص البحث برقم  القيد الارصدة الافتتاحية 
+txtBx_search_balance_name_ob	نص البحث باسم  الرصيد في الارصدة الافتتاحية 
+cmBx_order_ob			قائمة الترتب حسب في الارصدة الافتتاحية 
+icBtn_search_balance_name_ob	زر ايقونة بحث  باسم  الرصيد 
+icBtn_search_restration_num_ob	زر ايقونة بحث  برقم  القيد 
+dgv_ob				 data grid view جدول  الارصدة الافتتاحية
+clmn_txtBx_restration_num_ob		نص رقم القيد
+clmn_txtBx_balance_num_ob  		نص رقم الرصيد
+clmn_cmBx_movement_type_ob	قائمة نوع الحركة
+clmn_txtBx_balance_name_ob 	نص اسم الرصيد 
+clmn_txtBx_date_ob			التاريخ
+clmn_txtBx_cost_center_ob  		نص مركز التكلفة
+clmn_txtBx_amount_ob	  	نص المبلغ 
+
+---------------- اسماء عناصر التي في يسار واجهة صفحة الارصدة الافتتاحية  ---------
+
+txtBx_restration_num_ob		نص رقم القيد
+txtBx_acc_num_ob  			نص رقم الحساب
+cmBx_movement_type_ob		قائمة النوع الحركة
+txtBx_account_name_ob  		نص اسم الحساب 
+dateTime_date_ob			التاريخ
+txtBx_cost_center_ob  		نص مركز التكلفة
+txtBx_amount_ob	  		نص المبلغ 
+
+----------ازرار الارصدة الافتتاحية   the names buttons ------------------
+
+btn_ob_desplay			زر عرض
+btn_ob_save			زر الحفظ 
+btn_ob_edit			زر التعديل 
+btn_ob_add			زر الاضافة  
+btn_ob_report			زر تقرير  
+btn_ob_delete			زر الحذف 
+btn_ob_cancel			زر الالغاء 
+---------------------------------------------------------------------------------------------
