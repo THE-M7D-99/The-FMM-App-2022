@@ -176,15 +176,15 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel144 = new System.Windows.Forms.Panel();
             this.panel54 = new System.Windows.Forms.Panel();
             this.panel113 = new System.Windows.Forms.Panel();
-            this.button5 = new System.Windows.Forms.Button();
+            this.btn_delete = new System.Windows.Forms.Button();
             this.panel112 = new System.Windows.Forms.Panel();
-            this.button4 = new System.Windows.Forms.Button();
+            this.btn_default = new System.Windows.Forms.Button();
             this.panel56 = new System.Windows.Forms.Panel();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btn_cancel = new System.Windows.Forms.Button();
             this.panel55 = new System.Windows.Forms.Panel();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btn_edit = new System.Windows.Forms.Button();
             this.panel99 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btn_save = new System.Windows.Forms.Button();
             this.panel116 = new System.Windows.Forms.Panel();
             this.panel117 = new System.Windows.Forms.Panel();
             this.label23 = new System.Windows.Forms.Label();
@@ -196,7 +196,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel80 = new System.Windows.Forms.Panel();
             this.panel7 = new System.Windows.Forms.Panel();
             this.panel103 = new System.Windows.Forms.Panel();
-            this.data_view = new System.Windows.Forms.DataGridView();
+            this.dgv_dataList = new System.Windows.Forms.DataGridView();
             this.panel106 = new System.Windows.Forms.Panel();
             this.panel107 = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -209,12 +209,12 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.srch_btn = new FontAwesome.Sharp.IconButton();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.d_cmb = new System.Windows.Forms.ComboBox();
+            this.cmBx_departmentFilter = new System.Windows.Forms.ComboBox();
             this.panel5 = new System.Windows.Forms.Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.panel12 = new System.Windows.Forms.Panel();
             this.panel13 = new System.Windows.Forms.Panel();
-            this.m_cmb = new System.Windows.Forms.ComboBox();
+            this.cmBx_managementFilter = new System.Windows.Forms.ComboBox();
             this.panel14 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.panel114 = new System.Windows.Forms.Panel();
@@ -346,7 +346,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel60.SuspendLayout();
             this.panel7.SuspendLayout();
             this.panel103.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.data_view)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgv_dataList)).BeginInit();
             this.panel106.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel58.SuspendLayout();
@@ -1911,7 +1911,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // panel113
             // 
             this.panel113.AutoSize = true;
-            this.panel113.Controls.Add(this.button5);
+            this.panel113.Controls.Add(this.btn_delete);
             this.panel113.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel113.Location = new System.Drawing.Point(359, 4);
             this.panel113.Name = "panel113";
@@ -1919,22 +1919,22 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel113.Size = new System.Drawing.Size(70, 48);
             this.panel113.TabIndex = 78;
             // 
-            // button5
+            // btn_delete
             // 
-            this.button5.AutoSize = true;
-            this.button5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
-            this.button5.Location = new System.Drawing.Point(8, 8);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(54, 32);
-            this.button5.TabIndex = 7;
-            this.button5.Text = "حذف";
-            this.button5.UseVisualStyleBackColor = true;
+            this.btn_delete.AutoSize = true;
+            this.btn_delete.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn_delete.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
+            this.btn_delete.Location = new System.Drawing.Point(8, 8);
+            this.btn_delete.Name = "btn_delete";
+            this.btn_delete.Size = new System.Drawing.Size(54, 32);
+            this.btn_delete.TabIndex = 7;
+            this.btn_delete.Text = "حذف";
+            this.btn_delete.UseVisualStyleBackColor = true;
             // 
             // panel112
             // 
             this.panel112.AutoSize = true;
-            this.panel112.Controls.Add(this.button4);
+            this.panel112.Controls.Add(this.btn_default);
             this.panel112.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel112.Location = new System.Drawing.Point(211, 4);
             this.panel112.Name = "panel112";
@@ -1942,22 +1942,22 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel112.Size = new System.Drawing.Size(148, 48);
             this.panel112.TabIndex = 77;
             // 
-            // button4
+            // btn_default
             // 
-            this.button4.AutoSize = true;
-            this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
-            this.button4.Location = new System.Drawing.Point(8, 8);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(132, 32);
-            this.button4.TabIndex = 7;
-            this.button4.Text = "إعادة الافتراضي";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btn_default.AutoSize = true;
+            this.btn_default.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn_default.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
+            this.btn_default.Location = new System.Drawing.Point(8, 8);
+            this.btn_default.Name = "btn_default";
+            this.btn_default.Size = new System.Drawing.Size(132, 32);
+            this.btn_default.TabIndex = 7;
+            this.btn_default.Text = "إعادة الافتراضي";
+            this.btn_default.UseVisualStyleBackColor = true;
             // 
             // panel56
             // 
             this.panel56.AutoSize = true;
-            this.panel56.Controls.Add(this.button3);
+            this.panel56.Controls.Add(this.btn_cancel);
             this.panel56.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel56.Location = new System.Drawing.Point(143, 4);
             this.panel56.Name = "panel56";
@@ -1965,22 +1965,22 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel56.Size = new System.Drawing.Size(68, 48);
             this.panel56.TabIndex = 76;
             // 
-            // button3
+            // btn_cancel
             // 
-            this.button3.AutoSize = true;
-            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
-            this.button3.Location = new System.Drawing.Point(8, 8);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(52, 32);
-            this.button3.TabIndex = 7;
-            this.button3.Text = "إلغاء";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btn_cancel.AutoSize = true;
+            this.btn_cancel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn_cancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
+            this.btn_cancel.Location = new System.Drawing.Point(8, 8);
+            this.btn_cancel.Name = "btn_cancel";
+            this.btn_cancel.Size = new System.Drawing.Size(52, 32);
+            this.btn_cancel.TabIndex = 7;
+            this.btn_cancel.Text = "إلغاء";
+            this.btn_cancel.UseVisualStyleBackColor = true;
             // 
             // panel55
             // 
             this.panel55.AutoSize = true;
-            this.panel55.Controls.Add(this.button2);
+            this.panel55.Controls.Add(this.btn_edit);
             this.panel55.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel55.Location = new System.Drawing.Point(69, 4);
             this.panel55.Name = "panel55";
@@ -1988,23 +1988,23 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel55.Size = new System.Drawing.Size(74, 48);
             this.panel55.TabIndex = 75;
             // 
-            // button2
+            // btn_edit
             // 
-            this.button2.AutoSize = true;
-            this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
-            this.button2.Location = new System.Drawing.Point(8, 8);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(58, 32);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "تعديل";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btn_edit.AutoSize = true;
+            this.btn_edit.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn_edit.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
+            this.btn_edit.Location = new System.Drawing.Point(8, 8);
+            this.btn_edit.Name = "btn_edit";
+            this.btn_edit.Size = new System.Drawing.Size(58, 32);
+            this.btn_edit.TabIndex = 7;
+            this.btn_edit.Text = "تعديل";
+            this.btn_edit.UseVisualStyleBackColor = true;
             // 
             // panel99
             // 
             this.panel99.AutoSize = true;
             this.panel99.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.panel99.Controls.Add(this.button1);
+            this.panel99.Controls.Add(this.btn_save);
             this.panel99.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel99.Location = new System.Drawing.Point(4, 4);
             this.panel99.Name = "panel99";
@@ -2012,17 +2012,17 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel99.Size = new System.Drawing.Size(65, 48);
             this.panel99.TabIndex = 74;
             // 
-            // button1
+            // btn_save
             // 
-            this.button1.AutoSize = true;
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
-            this.button1.Location = new System.Drawing.Point(8, 8);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(49, 32);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "حفظ";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btn_save.AutoSize = true;
+            this.btn_save.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn_save.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
+            this.btn_save.Location = new System.Drawing.Point(8, 8);
+            this.btn_save.Name = "btn_save";
+            this.btn_save.Size = new System.Drawing.Size(49, 32);
+            this.btn_save.TabIndex = 7;
+            this.btn_save.Text = "حفظ";
+            this.btn_save.UseVisualStyleBackColor = true;
             // 
             // panel116
             // 
@@ -2130,7 +2130,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel103
             // 
-            this.panel103.Controls.Add(this.data_view);
+            this.panel103.Controls.Add(this.dgv_dataList);
             this.panel103.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel103.Location = new System.Drawing.Point(8, 124);
             this.panel103.Name = "panel103";
@@ -2138,14 +2138,14 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel103.Size = new System.Drawing.Size(1022, 593);
             this.panel103.TabIndex = 68;
             // 
-            // data_view
+            // dgv_dataList
             // 
-            this.data_view.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.data_view.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.data_view.Location = new System.Drawing.Point(16, 16);
-            this.data_view.Name = "data_view";
-            this.data_view.Size = new System.Drawing.Size(990, 561);
-            this.data_view.TabIndex = 0;
+            this.dgv_dataList.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgv_dataList.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dgv_dataList.Location = new System.Drawing.Point(16, 16);
+            this.dgv_dataList.Name = "dgv_dataList";
+            this.dgv_dataList.Size = new System.Drawing.Size(990, 561);
+            this.dgv_dataList.TabIndex = 0;
             // 
             // panel106
             // 
@@ -2273,7 +2273,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // panel4
             // 
             this.panel4.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.panel4.Controls.Add(this.d_cmb);
+            this.panel4.Controls.Add(this.cmBx_departmentFilter);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel4.Location = new System.Drawing.Point(8, 8);
             this.panel4.Name = "panel4";
@@ -2281,14 +2281,14 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel4.Size = new System.Drawing.Size(160, 36);
             this.panel4.TabIndex = 19;
             // 
-            // d_cmb
+            // cmBx_departmentFilter
             // 
-            this.d_cmb.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.d_cmb.FormattingEnabled = true;
-            this.d_cmb.Location = new System.Drawing.Point(0, 8);
-            this.d_cmb.Name = "d_cmb";
-            this.d_cmb.Size = new System.Drawing.Size(160, 21);
-            this.d_cmb.TabIndex = 0;
+            this.cmBx_departmentFilter.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cmBx_departmentFilter.FormattingEnabled = true;
+            this.cmBx_departmentFilter.Location = new System.Drawing.Point(0, 8);
+            this.cmBx_departmentFilter.Name = "cmBx_departmentFilter";
+            this.cmBx_departmentFilter.Size = new System.Drawing.Size(160, 21);
+            this.cmBx_departmentFilter.TabIndex = 0;
             // 
             // panel5
             // 
@@ -2327,7 +2327,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // panel13
             // 
             this.panel13.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.panel13.Controls.Add(this.m_cmb);
+            this.panel13.Controls.Add(this.cmBx_managementFilter);
             this.panel13.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel13.Location = new System.Drawing.Point(8, 8);
             this.panel13.Name = "panel13";
@@ -2335,14 +2335,14 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel13.Size = new System.Drawing.Size(160, 36);
             this.panel13.TabIndex = 17;
             // 
-            // m_cmb
+            // cmBx_managementFilter
             // 
-            this.m_cmb.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.m_cmb.FormattingEnabled = true;
-            this.m_cmb.Location = new System.Drawing.Point(0, 8);
-            this.m_cmb.Name = "m_cmb";
-            this.m_cmb.Size = new System.Drawing.Size(160, 21);
-            this.m_cmb.TabIndex = 0;
+            this.cmBx_managementFilter.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cmBx_managementFilter.FormattingEnabled = true;
+            this.cmBx_managementFilter.Location = new System.Drawing.Point(0, 8);
+            this.cmBx_managementFilter.Name = "cmBx_managementFilter";
+            this.cmBx_managementFilter.Size = new System.Drawing.Size(160, 21);
+            this.cmBx_managementFilter.TabIndex = 0;
             // 
             // panel14
             // 
@@ -2701,7 +2701,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel60.ResumeLayout(false);
             this.panel7.ResumeLayout(false);
             this.panel103.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.data_view)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgv_dataList)).EndInit();
             this.panel106.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -2738,7 +2738,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel80;
         private System.Windows.Forms.Panel panel7;
         private System.Windows.Forms.Panel panel103;
-        private System.Windows.Forms.DataGridView data_view;
+        private System.Windows.Forms.DataGridView dgv_dataList;
         private System.Windows.Forms.Panel panel106;
         private System.Windows.Forms.Panel panel107;
         private System.Windows.Forms.Panel panel1;
@@ -2751,12 +2751,12 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private FontAwesome.Sharp.IconButton srch_btn;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.ComboBox d_cmb;
+        private System.Windows.Forms.ComboBox cmBx_departmentFilter;
         private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Panel panel12;
         private System.Windows.Forms.Panel panel13;
-        private System.Windows.Forms.ComboBox m_cmb;
+        private System.Windows.Forms.ComboBox cmBx_managementFilter;
         private System.Windows.Forms.Panel panel14;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel2;
@@ -2907,15 +2907,15 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel144;
         private System.Windows.Forms.Panel panel54;
         private System.Windows.Forms.Panel panel113;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btn_delete;
         private System.Windows.Forms.Panel panel112;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button btn_default;
         private System.Windows.Forms.Panel panel56;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btn_cancel;
         private System.Windows.Forms.Panel panel55;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btn_edit;
         private System.Windows.Forms.Panel panel99;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btn_save;
         private System.Windows.Forms.Panel panel116;
         private System.Windows.Forms.Panel panel117;
         private System.Windows.Forms.Label label23;
