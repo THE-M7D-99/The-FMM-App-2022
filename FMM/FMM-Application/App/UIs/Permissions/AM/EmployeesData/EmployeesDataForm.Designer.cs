@@ -168,7 +168,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel82 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
             this.panel52 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.picBx_image = new System.Windows.Forms.PictureBox();
             this.panel53 = new System.Windows.Forms.Panel();
             this.panel59 = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
@@ -331,7 +331,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel73.SuspendLayout();
             this.panel82.SuspendLayout();
             this.panel52.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBx_image)).BeginInit();
             this.panel53.SuspendLayout();
             this.panel59.SuspendLayout();
             this.panel143.SuspendLayout();
@@ -1826,7 +1826,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // panel52
             // 
             this.panel52.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel52.Controls.Add(this.pictureBox1);
+            this.panel52.Controls.Add(this.picBx_image);
             this.panel52.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel52.Location = new System.Drawing.Point(381, 4);
             this.panel52.Name = "panel52";
@@ -1834,14 +1834,14 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel52.Size = new System.Drawing.Size(104, 104);
             this.panel52.TabIndex = 60;
             // 
-            // pictureBox1
+            // picBx_image
             // 
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Location = new System.Drawing.Point(4, 4);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(96, 96);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.picBx_image.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.picBx_image.Location = new System.Drawing.Point(4, 4);
+            this.picBx_image.Name = "picBx_image";
+            this.picBx_image.Size = new System.Drawing.Size(96, 96);
+            this.picBx_image.TabIndex = 0;
+            this.picBx_image.TabStop = false;
             // 
             // panel53
             // 
@@ -2676,7 +2676,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel82.ResumeLayout(false);
             this.panel82.PerformLayout();
             this.panel52.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBx_image)).EndInit();
             this.panel53.ResumeLayout(false);
             this.panel53.PerformLayout();
             this.panel59.ResumeLayout(false);
@@ -2899,7 +2899,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel82;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Panel panel52;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox picBx_image;
         private System.Windows.Forms.Panel panel53;
         private System.Windows.Forms.Panel panel59;
         private System.Windows.Forms.Label label3;
