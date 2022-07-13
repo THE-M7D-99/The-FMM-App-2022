@@ -40,7 +40,6 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel119 = new System.Windows.Forms.Panel();
             this.panel120 = new System.Windows.Forms.Panel();
             this.panel121 = new System.Windows.Forms.Panel();
-            this.textBox20 = new System.Windows.Forms.TextBox();
             this.panel122 = new System.Windows.Forms.Panel();
             this.label24 = new System.Windows.Forms.Label();
             this.panel123 = new System.Windows.Forms.Panel();
@@ -53,18 +52,16 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel130 = new System.Windows.Forms.Panel();
             this.panel131 = new System.Windows.Forms.Panel();
             this.panel132 = new System.Windows.Forms.Panel();
-            this.textBox24 = new System.Windows.Forms.TextBox();
             this.panel133 = new System.Windows.Forms.Panel();
             this.label28 = new System.Windows.Forms.Label();
             this.panel134 = new System.Windows.Forms.Panel();
             this.panel135 = new System.Windows.Forms.Panel();
-            this.textBox25 = new System.Windows.Forms.TextBox();
             this.panel136 = new System.Windows.Forms.Panel();
             this.label29 = new System.Windows.Forms.Label();
             this.panel137 = new System.Windows.Forms.Panel();
             this.panel138 = new System.Windows.Forms.Panel();
             this.panel139 = new System.Windows.Forms.Panel();
-            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.txtBx_passportNum = new System.Windows.Forms.TextBox();
             this.panel140 = new System.Windows.Forms.Panel();
             this.label30 = new System.Windows.Forms.Label();
             this.panel141 = new System.Windows.Forms.Panel();
@@ -76,52 +73,48 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel30 = new System.Windows.Forms.Panel();
             this.panel31 = new System.Windows.Forms.Panel();
             this.panel44 = new System.Windows.Forms.Panel();
-            this.textBox17 = new System.Windows.Forms.TextBox();
+            this.txtBx_yearsOfExperience = new System.Windows.Forms.TextBox();
             this.panel98 = new System.Windows.Forms.Panel();
             this.label21 = new System.Windows.Forms.Label();
             this.panel45 = new System.Windows.Forms.Panel();
             this.panel75 = new System.Windows.Forms.Panel();
-            this.textBox16 = new System.Windows.Forms.TextBox();
+            this.txtBx_workTime = new System.Windows.Forms.TextBox();
             this.panel97 = new System.Windows.Forms.Panel();
             this.label20 = new System.Windows.Forms.Label();
             this.panel39 = new System.Windows.Forms.Panel();
             this.panel40 = new System.Windows.Forms.Panel();
             this.panel41 = new System.Windows.Forms.Panel();
-            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.txtBx_salary = new System.Windows.Forms.TextBox();
             this.panel96 = new System.Windows.Forms.Panel();
             this.label19 = new System.Windows.Forms.Label();
             this.panel42 = new System.Windows.Forms.Panel();
             this.panel43 = new System.Windows.Forms.Panel();
-            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.txtBx_qualification = new System.Windows.Forms.TextBox();
             this.panel95 = new System.Windows.Forms.Panel();
             this.label18 = new System.Windows.Forms.Label();
             this.panel34 = new System.Windows.Forms.Panel();
             this.panel35 = new System.Windows.Forms.Panel();
             this.panel36 = new System.Windows.Forms.Panel();
-            this.textBox13 = new System.Windows.Forms.TextBox();
             this.panel94 = new System.Windows.Forms.Panel();
             this.label17 = new System.Windows.Forms.Label();
             this.panel37 = new System.Windows.Forms.Panel();
             this.panel38 = new System.Windows.Forms.Panel();
-            this.textBox12 = new System.Windows.Forms.TextBox();
             this.panel93 = new System.Windows.Forms.Panel();
             this.label16 = new System.Windows.Forms.Label();
             this.panel21 = new System.Windows.Forms.Panel();
             this.panel22 = new System.Windows.Forms.Panel();
             this.panel23 = new System.Windows.Forms.Panel();
             this.panel24 = new System.Windows.Forms.Panel();
-            this.textBox11 = new System.Windows.Forms.TextBox();
             this.panel92 = new System.Windows.Forms.Panel();
             this.label15 = new System.Windows.Forms.Label();
             this.panel25 = new System.Windows.Forms.Panel();
             this.panel26 = new System.Windows.Forms.Panel();
-            this.textBox10 = new System.Windows.Forms.TextBox();
             this.panel91 = new System.Windows.Forms.Panel();
             this.label14 = new System.Windows.Forms.Label();
             this.panel27 = new System.Windows.Forms.Panel();
             this.panel32 = new System.Windows.Forms.Panel();
             this.panel33 = new System.Windows.Forms.Panel();
-            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.txtBx_empNum = new System.Windows.Forms.TextBox();
             this.panel90 = new System.Windows.Forms.Panel();
             this.label13 = new System.Windows.Forms.Label();
             this.panel76 = new System.Windows.Forms.Panel();
@@ -134,23 +127,22 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel47 = new System.Windows.Forms.Panel();
             this.panel48 = new System.Windows.Forms.Panel();
             this.panel62 = new System.Windows.Forms.Panel();
-            this.textBox8 = new System.Windows.Forms.TextBox();
             this.panel88 = new System.Windows.Forms.Panel();
             this.label11 = new System.Windows.Forms.Label();
             this.panel72 = new System.Windows.Forms.Panel();
             this.panel74 = new System.Windows.Forms.Panel();
-            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.txtBx_id = new System.Windows.Forms.TextBox();
             this.panel87 = new System.Windows.Forms.Panel();
             this.label10 = new System.Windows.Forms.Label();
             this.panel61 = new System.Windows.Forms.Panel();
             this.panel63 = new System.Windows.Forms.Panel();
             this.panel66 = new System.Windows.Forms.Panel();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.txtBx_address = new System.Windows.Forms.TextBox();
             this.panel86 = new System.Windows.Forms.Panel();
             this.label9 = new System.Windows.Forms.Label();
             this.panel64 = new System.Windows.Forms.Panel();
             this.panel65 = new System.Windows.Forms.Panel();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.txtBx_phone = new System.Windows.Forms.TextBox();
             this.panel85 = new System.Windows.Forms.Panel();
             this.label8 = new System.Windows.Forms.Label();
             this.panel49 = new System.Windows.Forms.Panel();
@@ -158,23 +150,21 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel67 = new System.Windows.Forms.Panel();
             this.panel68 = new System.Windows.Forms.Panel();
             this.panel69 = new System.Windows.Forms.Panel();
-            this.textBox3 = new System.Windows.Forms.TextBox();
             this.panel83 = new System.Windows.Forms.Panel();
             this.label6 = new System.Windows.Forms.Label();
             this.panel70 = new System.Windows.Forms.Panel();
             this.panel71 = new System.Windows.Forms.Panel();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.txBx_age = new System.Windows.Forms.TextBox();
             this.panel84 = new System.Windows.Forms.Panel();
             this.label7 = new System.Windows.Forms.Label();
             this.panel28 = new System.Windows.Forms.Panel();
             this.panel29 = new System.Windows.Forms.Panel();
             this.panel51 = new System.Windows.Forms.Panel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtBx_name = new System.Windows.Forms.TextBox();
             this.panel81 = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.panel46 = new System.Windows.Forms.Panel();
             this.panel73 = new System.Windows.Forms.Panel();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.panel82 = new System.Windows.Forms.Panel();
             this.label5 = new System.Windows.Forms.Label();
             this.panel52 = new System.Windows.Forms.Panel();
@@ -232,6 +222,16 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.label22 = new System.Windows.Forms.Label();
             this.panel118 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.cmBx_gender = new System.Windows.Forms.ComboBox();
+            this.cmBx_maritalStatus = new System.Windows.Forms.ComboBox();
+            this.cmBx_management = new System.Windows.Forms.ComboBox();
+            this.cmBx_department = new System.Windows.Forms.ComboBox();
+            this.cmBx_job = new System.Windows.Forms.ComboBox();
+            this.cmBx_insuranceType = new System.Windows.Forms.ComboBox();
+            this.dtp_hiringDate = new System.Windows.Forms.DateTimePicker();
+            this.dtp_releaseDate = new System.Windows.Forms.DateTimePicker();
+            this.dtp_expiryDate = new System.Windows.Forms.DateTimePicker();
+            this.dtp_birthDate = new System.Windows.Forms.DateTimePicker();
             this.panel8.SuspendLayout();
             this.panel10.SuspendLayout();
             this.panel15.SuspendLayout();
@@ -470,21 +470,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel121
             // 
-            this.panel121.Controls.Add(this.textBox20);
+            this.panel121.Controls.Add(this.cmBx_insuranceType);
             this.panel121.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel121.Location = new System.Drawing.Point(4, 4);
             this.panel121.Name = "panel121";
             this.panel121.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel121.Size = new System.Drawing.Size(94, 32);
             this.panel121.TabIndex = 24;
-            // 
-            // textBox20
-            // 
-            this.textBox20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox20.Location = new System.Drawing.Point(0, 6);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(94, 20);
-            this.textBox20.TabIndex = 2;
             // 
             // panel122
             // 
@@ -608,21 +600,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel132
             // 
-            this.panel132.Controls.Add(this.textBox24);
+            this.panel132.Controls.Add(this.dtp_expiryDate);
             this.panel132.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel132.Location = new System.Drawing.Point(4, 4);
             this.panel132.Name = "panel132";
             this.panel132.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel132.Size = new System.Drawing.Size(150, 32);
             this.panel132.TabIndex = 25;
-            // 
-            // textBox24
-            // 
-            this.textBox24.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox24.Location = new System.Drawing.Point(0, 6);
-            this.textBox24.Name = "textBox24";
-            this.textBox24.Size = new System.Drawing.Size(150, 20);
-            this.textBox24.TabIndex = 2;
             // 
             // panel133
             // 
@@ -659,21 +643,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel135
             // 
-            this.panel135.Controls.Add(this.textBox25);
+            this.panel135.Controls.Add(this.dtp_releaseDate);
             this.panel135.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel135.Location = new System.Drawing.Point(4, 4);
             this.panel135.Name = "panel135";
             this.panel135.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel135.Size = new System.Drawing.Size(104, 32);
             this.panel135.TabIndex = 24;
-            // 
-            // textBox25
-            // 
-            this.textBox25.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox25.Location = new System.Drawing.Point(0, 6);
-            this.textBox25.Name = "textBox25";
-            this.textBox25.Size = new System.Drawing.Size(104, 20);
-            this.textBox25.TabIndex = 2;
             // 
             // panel136
             // 
@@ -720,7 +696,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel139
             // 
-            this.panel139.Controls.Add(this.textBox26);
+            this.panel139.Controls.Add(this.txtBx_passportNum);
             this.panel139.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel139.Location = new System.Drawing.Point(4, 4);
             this.panel139.Name = "panel139";
@@ -728,13 +704,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel139.Size = new System.Drawing.Size(96, 32);
             this.panel139.TabIndex = 24;
             // 
-            // textBox26
+            // txtBx_passportNum
             // 
-            this.textBox26.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox26.Location = new System.Drawing.Point(0, 6);
-            this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(96, 20);
-            this.textBox26.TabIndex = 2;
+            this.txtBx_passportNum.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_passportNum.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_passportNum.Name = "txtBx_passportNum";
+            this.txtBx_passportNum.Size = new System.Drawing.Size(96, 20);
+            this.txtBx_passportNum.TabIndex = 2;
             // 
             // panel140
             // 
@@ -849,7 +825,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel44
             // 
-            this.panel44.Controls.Add(this.textBox17);
+            this.panel44.Controls.Add(this.txtBx_yearsOfExperience);
             this.panel44.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel44.Location = new System.Drawing.Point(4, 4);
             this.panel44.Name = "panel44";
@@ -857,13 +833,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel44.Size = new System.Drawing.Size(129, 32);
             this.panel44.TabIndex = 27;
             // 
-            // textBox17
+            // txtBx_yearsOfExperience
             // 
-            this.textBox17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox17.Location = new System.Drawing.Point(0, 6);
-            this.textBox17.Name = "textBox17";
-            this.textBox17.Size = new System.Drawing.Size(129, 20);
-            this.textBox17.TabIndex = 2;
+            this.txtBx_yearsOfExperience.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_yearsOfExperience.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_yearsOfExperience.Name = "txtBx_yearsOfExperience";
+            this.txtBx_yearsOfExperience.Size = new System.Drawing.Size(129, 20);
+            this.txtBx_yearsOfExperience.TabIndex = 2;
             // 
             // panel98
             // 
@@ -900,7 +876,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel75
             // 
-            this.panel75.Controls.Add(this.textBox16);
+            this.panel75.Controls.Add(this.txtBx_workTime);
             this.panel75.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel75.Location = new System.Drawing.Point(4, 4);
             this.panel75.Name = "panel75";
@@ -908,13 +884,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel75.Size = new System.Drawing.Size(132, 32);
             this.panel75.TabIndex = 26;
             // 
-            // textBox16
+            // txtBx_workTime
             // 
-            this.textBox16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox16.Location = new System.Drawing.Point(0, 6);
-            this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(132, 20);
-            this.textBox16.TabIndex = 2;
+            this.txtBx_workTime.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_workTime.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_workTime.Name = "txtBx_workTime";
+            this.txtBx_workTime.Size = new System.Drawing.Size(132, 20);
+            this.txtBx_workTime.TabIndex = 2;
             // 
             // panel97
             // 
@@ -962,7 +938,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel41
             // 
-            this.panel41.Controls.Add(this.textBox15);
+            this.panel41.Controls.Add(this.txtBx_salary);
             this.panel41.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel41.Location = new System.Drawing.Point(4, 4);
             this.panel41.Name = "panel41";
@@ -970,13 +946,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel41.Size = new System.Drawing.Size(198, 32);
             this.panel41.TabIndex = 26;
             // 
-            // textBox15
+            // txtBx_salary
             // 
-            this.textBox15.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox15.Location = new System.Drawing.Point(0, 6);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(198, 20);
-            this.textBox15.TabIndex = 2;
+            this.txtBx_salary.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_salary.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_salary.Name = "txtBx_salary";
+            this.txtBx_salary.Size = new System.Drawing.Size(198, 20);
+            this.txtBx_salary.TabIndex = 2;
             // 
             // panel96
             // 
@@ -1013,7 +989,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel43
             // 
-            this.panel43.Controls.Add(this.textBox14);
+            this.panel43.Controls.Add(this.txtBx_qualification);
             this.panel43.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel43.Location = new System.Drawing.Point(4, 4);
             this.panel43.Name = "panel43";
@@ -1021,13 +997,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel43.Size = new System.Drawing.Size(99, 32);
             this.panel43.TabIndex = 26;
             // 
-            // textBox14
+            // txtBx_qualification
             // 
-            this.textBox14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox14.Location = new System.Drawing.Point(0, 6);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.Size = new System.Drawing.Size(99, 20);
-            this.textBox14.TabIndex = 2;
+            this.txtBx_qualification.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_qualification.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_qualification.Name = "txtBx_qualification";
+            this.txtBx_qualification.Size = new System.Drawing.Size(99, 20);
+            this.txtBx_qualification.TabIndex = 2;
             // 
             // panel95
             // 
@@ -1075,21 +1051,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel36
             // 
-            this.panel36.Controls.Add(this.textBox13);
+            this.panel36.Controls.Add(this.dtp_hiringDate);
             this.panel36.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel36.Location = new System.Drawing.Point(4, 4);
             this.panel36.Name = "panel36";
             this.panel36.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel36.Size = new System.Drawing.Size(159, 32);
             this.panel36.TabIndex = 26;
-            // 
-            // textBox13
-            // 
-            this.textBox13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox13.Location = new System.Drawing.Point(0, 6);
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(159, 20);
-            this.textBox13.TabIndex = 2;
             // 
             // panel94
             // 
@@ -1126,21 +1094,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel38
             // 
-            this.panel38.Controls.Add(this.textBox12);
+            this.panel38.Controls.Add(this.cmBx_job);
             this.panel38.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel38.Location = new System.Drawing.Point(4, 4);
             this.panel38.Name = "panel38";
             this.panel38.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel38.Size = new System.Drawing.Size(147, 32);
             this.panel38.TabIndex = 25;
-            // 
-            // textBox12
-            // 
-            this.textBox12.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox12.Location = new System.Drawing.Point(0, 6);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(147, 20);
-            this.textBox12.TabIndex = 2;
             // 
             // panel93
             // 
@@ -1200,21 +1160,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel24
             // 
-            this.panel24.Controls.Add(this.textBox11);
+            this.panel24.Controls.Add(this.cmBx_department);
             this.panel24.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel24.Location = new System.Drawing.Point(4, 4);
             this.panel24.Name = "panel24";
             this.panel24.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel24.Size = new System.Drawing.Size(203, 32);
             this.panel24.TabIndex = 25;
-            // 
-            // textBox11
-            // 
-            this.textBox11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox11.Location = new System.Drawing.Point(0, 6);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(203, 20);
-            this.textBox11.TabIndex = 2;
             // 
             // panel92
             // 
@@ -1251,21 +1203,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel26
             // 
-            this.panel26.Controls.Add(this.textBox10);
+            this.panel26.Controls.Add(this.cmBx_management);
             this.panel26.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel26.Location = new System.Drawing.Point(4, 4);
             this.panel26.Name = "panel26";
             this.panel26.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel26.Size = new System.Drawing.Size(152, 32);
             this.panel26.TabIndex = 24;
-            // 
-            // textBox10
-            // 
-            this.textBox10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox10.Location = new System.Drawing.Point(0, 6);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(152, 20);
-            this.textBox10.TabIndex = 2;
             // 
             // panel91
             // 
@@ -1312,7 +1256,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel33
             // 
-            this.panel33.Controls.Add(this.textBox9);
+            this.panel33.Controls.Add(this.txtBx_empNum);
             this.panel33.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel33.Location = new System.Drawing.Point(4, 4);
             this.panel33.Name = "panel33";
@@ -1320,13 +1264,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel33.Size = new System.Drawing.Size(382, 32);
             this.panel33.TabIndex = 24;
             // 
-            // textBox9
+            // txtBx_empNum
             // 
-            this.textBox9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox9.Location = new System.Drawing.Point(0, 6);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(382, 20);
-            this.textBox9.TabIndex = 2;
+            this.txtBx_empNum.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_empNum.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_empNum.Name = "txtBx_empNum";
+            this.txtBx_empNum.Size = new System.Drawing.Size(382, 20);
+            this.txtBx_empNum.TabIndex = 2;
             // 
             // panel90
             // 
@@ -1452,21 +1396,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel62
             // 
-            this.panel62.Controls.Add(this.textBox8);
+            this.panel62.Controls.Add(this.cmBx_maritalStatus);
             this.panel62.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel62.Location = new System.Drawing.Point(4, 4);
             this.panel62.Name = "panel62";
             this.panel62.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel62.Size = new System.Drawing.Size(132, 32);
             this.panel62.TabIndex = 29;
-            // 
-            // textBox8
-            // 
-            this.textBox8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox8.Location = new System.Drawing.Point(0, 6);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.Size = new System.Drawing.Size(132, 20);
-            this.textBox8.TabIndex = 2;
             // 
             // panel88
             // 
@@ -1503,7 +1439,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel74
             // 
-            this.panel74.Controls.Add(this.textBox7);
+            this.panel74.Controls.Add(this.txtBx_id);
             this.panel74.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel74.Location = new System.Drawing.Point(4, 4);
             this.panel74.Name = "panel74";
@@ -1511,13 +1447,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel74.Size = new System.Drawing.Size(117, 32);
             this.panel74.TabIndex = 28;
             // 
-            // textBox7
+            // txtBx_id
             // 
-            this.textBox7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox7.Location = new System.Drawing.Point(0, 6);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(117, 20);
-            this.textBox7.TabIndex = 2;
+            this.txtBx_id.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_id.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_id.Name = "txtBx_id";
+            this.txtBx_id.Size = new System.Drawing.Size(117, 20);
+            this.txtBx_id.TabIndex = 2;
             // 
             // panel87
             // 
@@ -1565,7 +1501,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel66
             // 
-            this.panel66.Controls.Add(this.textBox6);
+            this.panel66.Controls.Add(this.txtBx_address);
             this.panel66.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel66.Location = new System.Drawing.Point(4, 4);
             this.panel66.Name = "panel66";
@@ -1573,13 +1509,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel66.Size = new System.Drawing.Size(191, 32);
             this.panel66.TabIndex = 28;
             // 
-            // textBox6
+            // txtBx_address
             // 
-            this.textBox6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox6.Location = new System.Drawing.Point(0, 6);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(191, 20);
-            this.textBox6.TabIndex = 2;
+            this.txtBx_address.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_address.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_address.Name = "txtBx_address";
+            this.txtBx_address.Size = new System.Drawing.Size(191, 20);
+            this.txtBx_address.TabIndex = 2;
             // 
             // panel86
             // 
@@ -1616,7 +1552,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel65
             // 
-            this.panel65.Controls.Add(this.textBox5);
+            this.panel65.Controls.Add(this.txtBx_phone);
             this.panel65.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel65.Location = new System.Drawing.Point(4, 4);
             this.panel65.Name = "panel65";
@@ -1624,13 +1560,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel65.Size = new System.Drawing.Size(128, 32);
             this.panel65.TabIndex = 27;
             // 
-            // textBox5
+            // txtBx_phone
             // 
-            this.textBox5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox5.Location = new System.Drawing.Point(0, 6);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(128, 20);
-            this.textBox5.TabIndex = 2;
+            this.txtBx_phone.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_phone.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_phone.Name = "txtBx_phone";
+            this.txtBx_phone.Size = new System.Drawing.Size(128, 20);
+            this.txtBx_phone.TabIndex = 2;
             // 
             // panel85
             // 
@@ -1701,21 +1637,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel69
             // 
-            this.panel69.Controls.Add(this.textBox3);
+            this.panel69.Controls.Add(this.dtp_birthDate);
             this.panel69.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel69.Location = new System.Drawing.Point(4, 4);
             this.panel69.Name = "panel69";
             this.panel69.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel69.Size = new System.Drawing.Size(110, 32);
             this.panel69.TabIndex = 25;
-            // 
-            // textBox3
-            // 
-            this.textBox3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox3.Location = new System.Drawing.Point(0, 6);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(110, 20);
-            this.textBox3.TabIndex = 2;
             // 
             // panel83
             // 
@@ -1752,7 +1680,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel71
             // 
-            this.panel71.Controls.Add(this.textBox4);
+            this.panel71.Controls.Add(this.txBx_age);
             this.panel71.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel71.Location = new System.Drawing.Point(4, 4);
             this.panel71.Name = "panel71";
@@ -1760,13 +1688,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel71.Size = new System.Drawing.Size(90, 32);
             this.panel71.TabIndex = 26;
             // 
-            // textBox4
+            // txBx_age
             // 
-            this.textBox4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox4.Location = new System.Drawing.Point(0, 6);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(90, 20);
-            this.textBox4.TabIndex = 2;
+            this.txBx_age.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txBx_age.Location = new System.Drawing.Point(0, 6);
+            this.txBx_age.Name = "txBx_age";
+            this.txBx_age.Size = new System.Drawing.Size(90, 20);
+            this.txBx_age.TabIndex = 2;
             // 
             // panel84
             // 
@@ -1814,7 +1742,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel51
             // 
-            this.panel51.Controls.Add(this.textBox1);
+            this.panel51.Controls.Add(this.txtBx_name);
             this.panel51.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel51.Location = new System.Drawing.Point(4, 4);
             this.panel51.Name = "panel51";
@@ -1822,13 +1750,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel51.Size = new System.Drawing.Size(155, 32);
             this.panel51.TabIndex = 25;
             // 
-            // textBox1
+            // txtBx_name
             // 
-            this.textBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox1.Location = new System.Drawing.Point(0, 6);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(155, 20);
-            this.textBox1.TabIndex = 2;
+            this.txtBx_name.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtBx_name.Location = new System.Drawing.Point(0, 6);
+            this.txtBx_name.Name = "txtBx_name";
+            this.txtBx_name.Size = new System.Drawing.Size(155, 20);
+            this.txtBx_name.TabIndex = 2;
             // 
             // panel81
             // 
@@ -1865,21 +1793,13 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel73
             // 
-            this.panel73.Controls.Add(this.textBox2);
+            this.panel73.Controls.Add(this.cmBx_gender);
             this.panel73.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel73.Location = new System.Drawing.Point(4, 4);
             this.panel73.Name = "panel73";
             this.panel73.Padding = new System.Windows.Forms.Padding(0, 6, 0, 6);
             this.panel73.Size = new System.Drawing.Size(84, 32);
             this.panel73.TabIndex = 24;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBox2.Location = new System.Drawing.Point(0, 6);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(84, 20);
-            this.textBox2.TabIndex = 2;
             // 
             // panel82
             // 
@@ -2496,6 +2416,92 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel2.Size = new System.Drawing.Size(1022, 20);
             this.panel2.TabIndex = 5;
             // 
+            // cmBx_gender
+            // 
+            this.cmBx_gender.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cmBx_gender.FormattingEnabled = true;
+            this.cmBx_gender.Location = new System.Drawing.Point(0, 6);
+            this.cmBx_gender.Name = "cmBx_gender";
+            this.cmBx_gender.Size = new System.Drawing.Size(84, 21);
+            this.cmBx_gender.TabIndex = 1;
+            // 
+            // cmBx_maritalStatus
+            // 
+            this.cmBx_maritalStatus.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cmBx_maritalStatus.FormattingEnabled = true;
+            this.cmBx_maritalStatus.Location = new System.Drawing.Point(0, 6);
+            this.cmBx_maritalStatus.Name = "cmBx_maritalStatus";
+            this.cmBx_maritalStatus.Size = new System.Drawing.Size(132, 21);
+            this.cmBx_maritalStatus.TabIndex = 2;
+            // 
+            // cmBx_management
+            // 
+            this.cmBx_management.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cmBx_management.FormattingEnabled = true;
+            this.cmBx_management.Location = new System.Drawing.Point(0, 6);
+            this.cmBx_management.Name = "cmBx_management";
+            this.cmBx_management.Size = new System.Drawing.Size(152, 21);
+            this.cmBx_management.TabIndex = 3;
+            // 
+            // cmBx_department
+            // 
+            this.cmBx_department.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cmBx_department.FormattingEnabled = true;
+            this.cmBx_department.Location = new System.Drawing.Point(0, 6);
+            this.cmBx_department.Name = "cmBx_department";
+            this.cmBx_department.Size = new System.Drawing.Size(203, 21);
+            this.cmBx_department.TabIndex = 3;
+            // 
+            // cmBx_job
+            // 
+            this.cmBx_job.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cmBx_job.FormattingEnabled = true;
+            this.cmBx_job.Location = new System.Drawing.Point(0, 6);
+            this.cmBx_job.Name = "cmBx_job";
+            this.cmBx_job.Size = new System.Drawing.Size(147, 21);
+            this.cmBx_job.TabIndex = 4;
+            // 
+            // cmBx_insuranceType
+            // 
+            this.cmBx_insuranceType.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.cmBx_insuranceType.FormattingEnabled = true;
+            this.cmBx_insuranceType.Location = new System.Drawing.Point(0, 6);
+            this.cmBx_insuranceType.Name = "cmBx_insuranceType";
+            this.cmBx_insuranceType.Size = new System.Drawing.Size(94, 21);
+            this.cmBx_insuranceType.TabIndex = 4;
+            // 
+            // dtp_hiringDate
+            // 
+            this.dtp_hiringDate.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dtp_hiringDate.Location = new System.Drawing.Point(0, 6);
+            this.dtp_hiringDate.Name = "dtp_hiringDate";
+            this.dtp_hiringDate.Size = new System.Drawing.Size(159, 20);
+            this.dtp_hiringDate.TabIndex = 1;
+            // 
+            // dtp_releaseDate
+            // 
+            this.dtp_releaseDate.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dtp_releaseDate.Location = new System.Drawing.Point(0, 6);
+            this.dtp_releaseDate.Name = "dtp_releaseDate";
+            this.dtp_releaseDate.Size = new System.Drawing.Size(104, 20);
+            this.dtp_releaseDate.TabIndex = 2;
+            // 
+            // dtp_expiryDate
+            // 
+            this.dtp_expiryDate.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dtp_expiryDate.Location = new System.Drawing.Point(0, 6);
+            this.dtp_expiryDate.Name = "dtp_expiryDate";
+            this.dtp_expiryDate.Size = new System.Drawing.Size(150, 20);
+            this.dtp_expiryDate.TabIndex = 2;
+            // 
+            // dtp_birthDate
+            // 
+            this.dtp_birthDate.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dtp_birthDate.Location = new System.Drawing.Point(0, 6);
+            this.dtp_birthDate.Name = "dtp_birthDate";
+            this.dtp_birthDate.Size = new System.Drawing.Size(110, 20);
+            this.dtp_birthDate.TabIndex = 2;
+            // 
             // EmployeesDataForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2519,7 +2525,6 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel120.ResumeLayout(false);
             this.panel120.PerformLayout();
             this.panel121.ResumeLayout(false);
-            this.panel121.PerformLayout();
             this.panel122.ResumeLayout(false);
             this.panel122.PerformLayout();
             this.panel123.ResumeLayout(false);
@@ -2534,13 +2539,11 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel131.ResumeLayout(false);
             this.panel131.PerformLayout();
             this.panel132.ResumeLayout(false);
-            this.panel132.PerformLayout();
             this.panel133.ResumeLayout(false);
             this.panel133.PerformLayout();
             this.panel134.ResumeLayout(false);
             this.panel134.PerformLayout();
             this.panel135.ResumeLayout(false);
-            this.panel135.PerformLayout();
             this.panel136.ResumeLayout(false);
             this.panel136.PerformLayout();
             this.panel137.ResumeLayout(false);
@@ -2587,13 +2590,11 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel35.ResumeLayout(false);
             this.panel35.PerformLayout();
             this.panel36.ResumeLayout(false);
-            this.panel36.PerformLayout();
             this.panel94.ResumeLayout(false);
             this.panel94.PerformLayout();
             this.panel37.ResumeLayout(false);
             this.panel37.PerformLayout();
             this.panel38.ResumeLayout(false);
-            this.panel38.PerformLayout();
             this.panel93.ResumeLayout(false);
             this.panel93.PerformLayout();
             this.panel21.ResumeLayout(false);
@@ -2601,13 +2602,11 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel23.ResumeLayout(false);
             this.panel23.PerformLayout();
             this.panel24.ResumeLayout(false);
-            this.panel24.PerformLayout();
             this.panel92.ResumeLayout(false);
             this.panel92.PerformLayout();
             this.panel25.ResumeLayout(false);
             this.panel25.PerformLayout();
             this.panel26.ResumeLayout(false);
-            this.panel26.PerformLayout();
             this.panel91.ResumeLayout(false);
             this.panel91.PerformLayout();
             this.panel27.ResumeLayout(false);
@@ -2629,7 +2628,6 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel48.ResumeLayout(false);
             this.panel48.PerformLayout();
             this.panel62.ResumeLayout(false);
-            this.panel62.PerformLayout();
             this.panel88.ResumeLayout(false);
             this.panel88.PerformLayout();
             this.panel72.ResumeLayout(false);
@@ -2657,7 +2655,6 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel68.ResumeLayout(false);
             this.panel68.PerformLayout();
             this.panel69.ResumeLayout(false);
-            this.panel69.PerformLayout();
             this.panel83.ResumeLayout(false);
             this.panel83.PerformLayout();
             this.panel70.ResumeLayout(false);
@@ -2676,7 +2673,6 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel46.ResumeLayout(false);
             this.panel46.PerformLayout();
             this.panel73.ResumeLayout(false);
-            this.panel73.PerformLayout();
             this.panel82.ResumeLayout(false);
             this.panel82.PerformLayout();
             this.panel52.ResumeLayout(false);
@@ -2775,7 +2771,6 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel119;
         private System.Windows.Forms.Panel panel120;
         private System.Windows.Forms.Panel panel121;
-        private System.Windows.Forms.TextBox textBox20;
         private System.Windows.Forms.Panel panel122;
         private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Panel panel123;
@@ -2788,18 +2783,16 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel130;
         private System.Windows.Forms.Panel panel131;
         private System.Windows.Forms.Panel panel132;
-        private System.Windows.Forms.TextBox textBox24;
         private System.Windows.Forms.Panel panel133;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Panel panel134;
         private System.Windows.Forms.Panel panel135;
-        private System.Windows.Forms.TextBox textBox25;
         private System.Windows.Forms.Panel panel136;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Panel panel137;
         private System.Windows.Forms.Panel panel138;
         private System.Windows.Forms.Panel panel139;
-        private System.Windows.Forms.TextBox textBox26;
+        private System.Windows.Forms.TextBox txtBx_passportNum;
         private System.Windows.Forms.Panel panel140;
         private System.Windows.Forms.Label label30;
         private System.Windows.Forms.Panel panel141;
@@ -2811,52 +2804,48 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel30;
         private System.Windows.Forms.Panel panel31;
         private System.Windows.Forms.Panel panel44;
-        private System.Windows.Forms.TextBox textBox17;
+        private System.Windows.Forms.TextBox txtBx_yearsOfExperience;
         private System.Windows.Forms.Panel panel98;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Panel panel45;
         private System.Windows.Forms.Panel panel75;
-        private System.Windows.Forms.TextBox textBox16;
+        private System.Windows.Forms.TextBox txtBx_workTime;
         private System.Windows.Forms.Panel panel97;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Panel panel39;
         private System.Windows.Forms.Panel panel40;
         private System.Windows.Forms.Panel panel41;
-        private System.Windows.Forms.TextBox textBox15;
+        private System.Windows.Forms.TextBox txtBx_salary;
         private System.Windows.Forms.Panel panel96;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Panel panel42;
         private System.Windows.Forms.Panel panel43;
-        private System.Windows.Forms.TextBox textBox14;
+        private System.Windows.Forms.TextBox txtBx_qualification;
         private System.Windows.Forms.Panel panel95;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Panel panel34;
         private System.Windows.Forms.Panel panel35;
         private System.Windows.Forms.Panel panel36;
-        private System.Windows.Forms.TextBox textBox13;
         private System.Windows.Forms.Panel panel94;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Panel panel37;
         private System.Windows.Forms.Panel panel38;
-        private System.Windows.Forms.TextBox textBox12;
         private System.Windows.Forms.Panel panel93;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Panel panel21;
         private System.Windows.Forms.Panel panel22;
         private System.Windows.Forms.Panel panel23;
         private System.Windows.Forms.Panel panel24;
-        private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.Panel panel92;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Panel panel25;
         private System.Windows.Forms.Panel panel26;
-        private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.Panel panel91;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Panel panel27;
         private System.Windows.Forms.Panel panel32;
         private System.Windows.Forms.Panel panel33;
-        private System.Windows.Forms.TextBox textBox9;
+        private System.Windows.Forms.TextBox txtBx_empNum;
         private System.Windows.Forms.Panel panel90;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Panel panel76;
@@ -2869,23 +2858,22 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel47;
         private System.Windows.Forms.Panel panel48;
         private System.Windows.Forms.Panel panel62;
-        private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.Panel panel88;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Panel panel72;
         private System.Windows.Forms.Panel panel74;
-        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox txtBx_id;
         private System.Windows.Forms.Panel panel87;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Panel panel61;
         private System.Windows.Forms.Panel panel63;
         private System.Windows.Forms.Panel panel66;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox txtBx_address;
         private System.Windows.Forms.Panel panel86;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Panel panel64;
         private System.Windows.Forms.Panel panel65;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox txtBx_phone;
         private System.Windows.Forms.Panel panel85;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Panel panel49;
@@ -2893,23 +2881,21 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel67;
         private System.Windows.Forms.Panel panel68;
         private System.Windows.Forms.Panel panel69;
-        private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Panel panel83;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Panel panel70;
         private System.Windows.Forms.Panel panel71;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox txBx_age;
         private System.Windows.Forms.Panel panel84;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Panel panel28;
         private System.Windows.Forms.Panel panel29;
         private System.Windows.Forms.Panel panel51;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtBx_name;
         private System.Windows.Forms.Panel panel81;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Panel panel46;
         private System.Windows.Forms.Panel panel73;
-        private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Panel panel82;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Panel panel52;
@@ -2937,5 +2923,15 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.Panel panel115;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Panel panel118;
+        private System.Windows.Forms.ComboBox cmBx_gender;
+        private System.Windows.Forms.ComboBox cmBx_maritalStatus;
+        private System.Windows.Forms.ComboBox cmBx_department;
+        private System.Windows.Forms.ComboBox cmBx_management;
+        private System.Windows.Forms.ComboBox cmBx_job;
+        private System.Windows.Forms.ComboBox cmBx_insuranceType;
+        private System.Windows.Forms.DateTimePicker dtp_expiryDate;
+        private System.Windows.Forms.DateTimePicker dtp_releaseDate;
+        private System.Windows.Forms.DateTimePicker dtp_hiringDate;
+        private System.Windows.Forms.DateTimePicker dtp_birthDate;
     }
 }
