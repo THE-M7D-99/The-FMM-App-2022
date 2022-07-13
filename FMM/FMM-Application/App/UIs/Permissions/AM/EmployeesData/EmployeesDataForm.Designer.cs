@@ -232,6 +232,8 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.dtp_releaseDate = new System.Windows.Forms.DateTimePicker();
             this.dtp_expiryDate = new System.Windows.Forms.DateTimePicker();
             this.dtp_birthDate = new System.Windows.Forms.DateTimePicker();
+            this.panel126 = new System.Windows.Forms.Panel();
+            this.btn_add = new System.Windows.Forms.Button();
             this.panel8.SuspendLayout();
             this.panel10.SuspendLayout();
             this.panel15.SuspendLayout();
@@ -361,6 +363,8 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel14.SuspendLayout();
             this.panel114.SuspendLayout();
             this.panel115.SuspendLayout();
+            this.panel2.SuspendLayout();
+            this.panel126.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel8
@@ -2135,7 +2139,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel103.Location = new System.Drawing.Point(8, 124);
             this.panel103.Name = "panel103";
             this.panel103.Padding = new System.Windows.Forms.Padding(16);
-            this.panel103.Size = new System.Drawing.Size(1022, 593);
+            this.panel103.Size = new System.Drawing.Size(1022, 553);
             this.panel103.TabIndex = 68;
             // 
             // dgv_dataList
@@ -2144,7 +2148,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.dgv_dataList.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgv_dataList.Location = new System.Drawing.Point(16, 16);
             this.dgv_dataList.Name = "dgv_dataList";
-            this.dgv_dataList.Size = new System.Drawing.Size(990, 561);
+            this.dgv_dataList.Size = new System.Drawing.Size(990, 521);
             this.dgv_dataList.TabIndex = 0;
             // 
             // panel106
@@ -2410,10 +2414,12 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.panel126);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(8, 717);
+            this.panel2.Location = new System.Drawing.Point(8, 677);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1022, 20);
+            this.panel2.Padding = new System.Windows.Forms.Padding(4);
+            this.panel2.Size = new System.Drawing.Size(1022, 60);
             this.panel2.TabIndex = 5;
             // 
             // cmBx_gender
@@ -2501,6 +2507,29 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.dtp_birthDate.Name = "dtp_birthDate";
             this.dtp_birthDate.Size = new System.Drawing.Size(110, 20);
             this.dtp_birthDate.TabIndex = 2;
+            // 
+            // panel126
+            // 
+            this.panel126.AutoSize = true;
+            this.panel126.Controls.Add(this.btn_add);
+            this.panel126.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel126.Location = new System.Drawing.Point(4, 4);
+            this.panel126.Name = "panel126";
+            this.panel126.Padding = new System.Windows.Forms.Padding(8);
+            this.panel126.Size = new System.Drawing.Size(77, 52);
+            this.panel126.TabIndex = 85;
+            // 
+            // btn_add
+            // 
+            this.btn_add.AutoSize = true;
+            this.btn_add.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn_add.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
+            this.btn_add.Location = new System.Drawing.Point(8, 8);
+            this.btn_add.Name = "btn_add";
+            this.btn_add.Size = new System.Drawing.Size(61, 36);
+            this.btn_add.TabIndex = 7;
+            this.btn_add.Text = "إضافة";
+            this.btn_add.UseVisualStyleBackColor = true;
             // 
             // EmployeesDataForm
             // 
@@ -2725,6 +2754,10 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
             this.panel114.PerformLayout();
             this.panel115.ResumeLayout(false);
             this.panel115.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            this.panel126.ResumeLayout(false);
+            this.panel126.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -2933,5 +2966,7 @@ namespace FMM_Application.App.UIs.Permissions.EmployeesData
         private System.Windows.Forms.DateTimePicker dtp_releaseDate;
         private System.Windows.Forms.DateTimePicker dtp_hiringDate;
         private System.Windows.Forms.DateTimePicker dtp_birthDate;
+        private System.Windows.Forms.Panel panel126;
+        private System.Windows.Forms.Button btn_add;
     }
 }

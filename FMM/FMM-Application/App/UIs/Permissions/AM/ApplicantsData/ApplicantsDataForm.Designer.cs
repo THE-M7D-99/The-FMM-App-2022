@@ -134,6 +134,8 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             this.btn_edit = new System.Windows.Forms.Button();
             this.panel99 = new System.Windows.Forms.Panel();
             this.btn_save = new System.Windows.Forms.Button();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.btn_add = new System.Windows.Forms.Button();
             this.panel60.SuspendLayout();
             this.panel7.SuspendLayout();
             this.panel103.SuspendLayout();
@@ -144,6 +146,7 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             this.panel100.SuspendLayout();
             this.panel101.SuspendLayout();
             this.panel102.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.panel114.SuspendLayout();
             this.panel115.SuspendLayout();
             this.panel8.SuspendLayout();
@@ -199,6 +202,7 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             this.panel56.SuspendLayout();
             this.panel55.SuspendLayout();
             this.panel99.SuspendLayout();
+            this.panel4.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel77
@@ -243,7 +247,7 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             this.panel103.Location = new System.Drawing.Point(8, 78);
             this.panel103.Name = "panel103";
             this.panel103.Padding = new System.Windows.Forms.Padding(16);
-            this.panel103.Size = new System.Drawing.Size(1020, 591);
+            this.panel103.Size = new System.Drawing.Size(1020, 551);
             this.panel103.TabIndex = 69;
             // 
             // dgv_dataList
@@ -252,7 +256,7 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             this.dgv_dataList.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgv_dataList.Location = new System.Drawing.Point(16, 16);
             this.dgv_dataList.Name = "dgv_dataList";
-            this.dgv_dataList.Size = new System.Drawing.Size(988, 559);
+            this.dgv_dataList.Size = new System.Drawing.Size(988, 519);
             this.dgv_dataList.TabIndex = 0;
             // 
             // panel106
@@ -366,10 +370,12 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.panel4);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(8, 669);
+            this.panel2.Location = new System.Drawing.Point(8, 629);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1020, 20);
+            this.panel2.Padding = new System.Windows.Forms.Padding(4);
+            this.panel2.Size = new System.Drawing.Size(1020, 60);
             this.panel2.TabIndex = 5;
             // 
             // panel114
@@ -1307,6 +1313,29 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             this.btn_save.Text = "حفظ";
             this.btn_save.UseVisualStyleBackColor = true;
             // 
+            // panel4
+            // 
+            this.panel4.AutoSize = true;
+            this.panel4.Controls.Add(this.btn_add);
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel4.Location = new System.Drawing.Point(4, 4);
+            this.panel4.Name = "panel4";
+            this.panel4.Padding = new System.Windows.Forms.Padding(8);
+            this.panel4.Size = new System.Drawing.Size(77, 52);
+            this.panel4.TabIndex = 84;
+            // 
+            // btn_add
+            // 
+            this.btn_add.AutoSize = true;
+            this.btn_add.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.btn_add.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold);
+            this.btn_add.Location = new System.Drawing.Point(8, 8);
+            this.btn_add.Name = "btn_add";
+            this.btn_add.Size = new System.Drawing.Size(61, 36);
+            this.btn_add.TabIndex = 7;
+            this.btn_add.Text = "إضافة";
+            this.btn_add.UseVisualStyleBackColor = true;
+            // 
             // ApplicantsDataForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1330,6 +1359,8 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             this.panel101.ResumeLayout(false);
             this.panel101.PerformLayout();
             this.panel102.ResumeLayout(false);
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
             this.panel114.ResumeLayout(false);
             this.panel114.PerformLayout();
             this.panel115.ResumeLayout(false);
@@ -1423,6 +1454,8 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
             this.panel55.PerformLayout();
             this.panel99.ResumeLayout(false);
             this.panel99.PerformLayout();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -1532,5 +1565,7 @@ namespace FMM_Application.App.UIs.Permissions.ApplicantsData
         private System.Windows.Forms.Button btn_edit;
         private System.Windows.Forms.Panel panel99;
         private System.Windows.Forms.Button btn_save;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Button btn_add;
     }
 }
