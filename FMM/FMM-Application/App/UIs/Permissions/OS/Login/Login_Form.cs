@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,7 @@ namespace FMM_Application.App.UIs.Permissions.OS.Login
 {
     public partial class Login_Form : Form
     {
+        private SqlConnection con;
         public Login_Form()
         {
             InitializeComponent();
@@ -20,15 +22,20 @@ namespace FMM_Application.App.UIs.Permissions.OS.Login
         public void Login_data()
         {
             errorProvider1.Clear();
-            errorProvider1.Clear();
             if (this.text_user.Text.Trim() != "" && this.text_pass.Text.Trim() != "")
             {
-                // Database Connection Codes and sql queries
-
-
-
-
-
+                con = FMM_Application.App.DataAccess.Connection.Connection.connect();
+                DataTable dt = log_in(this.text_user.Text, this.text_pass.Text);
+                if(dt.Rows.Count > 0)
+                {
+                    MessageBox.Show("Welcome", "Valid Login", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                } 
+                
+                else
+                {
+                    MessageBox.Show("Wrong Username or Password", "Invalid Login", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    close();
+                }
             }
 
             else
@@ -65,7 +72,7 @@ namespace FMM_Application.App.UIs.Permissions.OS.Login
                 this.text_pass.Focus();
 
             if (e.KeyData == Keys.Enter)
-                this.text_pass.Focus();
+                Login_data();
         }
 
         private void text_pass_KeyDown(object sender, KeyEventArgs e)
@@ -75,6 +82,63 @@ namespace FMM_Application.App.UIs.Permissions.OS.Login
 
             if (e.KeyData == Keys.Enter)
                 Login_data();
+        }
+
+        private void Open()
+        {
+            if (con.State != ConnectionState.Open)
+            {
+                con.Open();
+            }
+        }
+
+        private void close()
+        {
+            if (con.State == ConnectionState.Open)
+            {
+                con.Close();
+            }
+        }
+
+        private DataTable Read(String sp, SqlParameter[] para)
+        {
+            SqlCommand sqlCom = new SqlCommand
+            {
+                Connection = con,
+                CommandType = CommandType.StoredProcedure,
+                CommandText = sp
+            };
+
+            if (para != null)
+            {
+                sqlCom.Parameters.AddRange(para);
+            }
+
+            SqlDataAdapter da = new SqlDataAdapter(sqlCom);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+
+            return dt;
+        }
+
+  
+
+        private DataTable log_in(string username, string password)
+        {
+            SqlParameter[] para = new SqlParameter[2];
+            para[0] = new SqlParameter("@username", SqlDbType.NVarChar, 50)
+            {
+                Value = username
+            };
+
+            para[1] = new SqlParameter("@pass", SqlDbType.NVarChar, 50)
+            {
+                Value = password
+            };
+            DataTable dt = Read("login_sp", para);
+            Open();
+
+            return dt;
         }
     }
 }
